@@ -6,125 +6,135 @@
     <atom:link href="https://ssikila.github.io/newsRSS_to_startme_page/rss.xml" rel="self" type="application/rss+xml" />
     <description><![CDATA[Daily AI & Telecom insights curated by n8n + Perplexity]]></description>
     <language>en-us</language>
+    <lastBuildDate>Wed, 08 Oct 2025 07:50:06 GMT</lastBuildDate>
+    <generator>n8n RSS Generator</generator>
     
     <item>
       <title><![CDATA[Untitled]]></title>
-      <link>https://ssikila.github.io/newsRSS_to_startme_page/</link>
-      <guid>https://ssikila.github.io/newsRSS_to_startme_page/rss.xml#tybi72</guid>
-      <description><![CDATA[Telecom companies must adopt generative AI to reduce costs, drive growth, improve security, and transform into technology-driven service providers.]]></description>
-      <pubDate>Wed, 08 Oct 2025 07:45:07 GMT</pubDate>
+      <link>https://ssikila.github.io/newsRSS_to_startme_page/item1.html</link>
+      <guid isPermaLink="true">https://ssikila.github.io/newsRSS_to_startme_page/item1.html#guid</guid>
+      <description><![CDATA[Telecoms must adopt generative AI to reduce costs, drive growth, enhance security, and transform into technology companies offering AI-powered services.]]></description>
+      <pubDate>Wed, 08 Oct 2025 07:50:06 GMT</pubDate>
     </item>
 
     <item>
       <title><![CDATA[Untitled]]></title>
-      <link>https://ssikila.github.io/newsRSS_to_startme_page/</link>
-      <guid>https://ssikila.github.io/newsRSS_to_startme_page/rss.xml#9n0e3y</guid>
-      <description><![CDATA[The article highlights 150 AI use cases from startups like Cursor, an AI-powered code editor with advanced generative AI and autonomous agent features.]]></description>
-      <pubDate>Wed, 08 Oct 2025 07:45:07 GMT</pubDate>
+      <link>https://ssikila.github.io/newsRSS_to_startme_page/item2.html</link>
+      <guid isPermaLink="true">https://ssikila.github.io/newsRSS_to_startme_page/item2.html#guid</guid>
+      <description><![CDATA[The article highlights 150 AI use cases from leading startups, featuring Cursor, an AI-powered code editor with advanced generative AI and autonomous agent capabilities.]]></description>
+      <pubDate>Wed, 08 Oct 2025 07:50:06 GMT</pubDate>
     </item>
 
     <item>
       <title><![CDATA[Untitled]]></title>
-      <link>https://ssikila.github.io/newsRSS_to_startme_page/</link>
-      <guid>https://ssikila.github.io/newsRSS_to_startme_page/rss.xml#h9lb6k</guid>
-      <description><![CDATA[The telecom industry is rapidly adopting generative AI, with half of surveyed companies having already implemented initial AI solutions by 2025.]]></description>
-      <pubDate>Wed, 08 Oct 2025 07:45:07 GMT</pubDate>
+      <link>https://ssikila.github.io/newsRSS_to_startme_page/item3.html</link>
+      <guid isPermaLink="true">https://ssikila.github.io/newsRSS_to_startme_page/item3.html#guid</guid>
+      <description><![CDATA[The report highlights growing generative AI adoption in telecom, with half of industry respondents having implemented their first AI solutions by 2025.]]></description>
+      <pubDate>Wed, 08 Oct 2025 07:50:06 GMT</pubDate>
     </item>
 
     <item>
       <title><![CDATA[Untitled]]></title>
-      <link>https://ssikila.github.io/newsRSS_to_startme_page/</link>
-      <guid>https://ssikila.github.io/newsRSS_to_startme_page/rss.xml#a3ig92</guid>
-      <description><![CDATA[The article discusses how generative AI, zero trust, and quantum encryption are driving innovation and enhanced security in the telecom industry's next growth wave.]]></description>
-      <pubDate>Wed, 08 Oct 2025 07:45:07 GMT</pubDate>
+      <link>https://ssikila.github.io/newsRSS_to_startme_page/item4.html</link>
+      <guid isPermaLink="true">https://ssikila.github.io/newsRSS_to_startme_page/item4.html#guid</guid>
+      <description><![CDATA[Singtel Enterprise is investing heavily in AI to become an AI-first telco, focusing on network slicing, digital twins, and autonomous networks.]]></description>
+      <pubDate>Wed, 08 Oct 2025 07:50:06 GMT</pubDate>
     </item>
 
     <item>
       <title><![CDATA[Untitled]]></title>
-      <link>https://ssikila.github.io/newsRSS_to_startme_page/</link>
-      <guid>https://ssikila.github.io/newsRSS_to_startme_page/rss.xml#fbh2ki</guid>
-      <description><![CDATA[Deloitte's 2025 telecom outlook highlights telcos exploring opportunities to leverage generative AI as a key growth driver across industries.]]></description>
-      <pubDate>Wed, 08 Oct 2025 07:45:07 GMT</pubDate>
+      <link>https://ssikila.github.io/newsRSS_to_startme_page/item5.html</link>
+      <guid isPermaLink="true">https://ssikila.github.io/newsRSS_to_startme_page/item5.html#guid</guid>
+      <description><![CDATA[Deloitte Insights forecasts telcos exploring growth opportunities by integrating generative AI into their 2025 business strategies.]]></description>
+      <pubDate>Wed, 08 Oct 2025 07:50:06 GMT</pubDate>
     </item>
 
     <item>
       <title><![CDATA[Untitled]]></title>
-      <link>https://ssikila.github.io/newsRSS_to_startme_page/</link>
-      <guid>https://ssikila.github.io/newsRSS_to_startme_page/rss.xml#55p0g3</guid>
-      <description><![CDATA[A new report urges telcos to adopt Gen AI to boost productivity, as 83% of leaders fear being left behind in the evolving industry landscape.]]></description>
-      <pubDate>Wed, 08 Oct 2025 07:45:07 GMT</pubDate>
+      <link>https://ssikila.github.io/newsRSS_to_startme_page/item6.html</link>
+      <guid isPermaLink="true">https://ssikila.github.io/newsRSS_to_startme_page/item6.html#guid</guid>
+      <description><![CDATA[The European Commission will reveal its new strategy on 8 October to promote AI adoption across various European sectors.]]></description>
+      <pubDate>Wed, 08 Oct 2025 07:50:06 GMT</pubDate>
     </item>
 
     <item>
       <title><![CDATA[Untitled]]></title>
-      <link>https://ssikila.github.io/newsRSS_to_startme_page/</link>
-      <guid>https://ssikila.github.io/newsRSS_to_startme_page/rss.xml#yz6qbs</guid>
-      <description><![CDATA[ZTE advances intelligent network solutions by integrating AI technologies to enhance telecommunications infrastructure and services.]]></description>
-      <pubDate>Wed, 08 Oct 2025 07:45:07 GMT</pubDate>
+      <link>https://ssikila.github.io/newsRSS_to_startme_page/item7.html</link>
+      <guid isPermaLink="true">https://ssikila.github.io/newsRSS_to_startme_page/item7.html#guid</guid>
+      <description><![CDATA[The article lists the top 26 generative AI companies in October 2025, highlighting their expertise in ChatGPT, large language models, and AI-driven business solutions.]]></description>
+      <pubDate>Wed, 08 Oct 2025 07:50:06 GMT</pubDate>
     </item>
 
     <item>
       <title><![CDATA[Untitled]]></title>
-      <link>https://ssikila.github.io/newsRSS_to_startme_page/</link>
-      <guid>https://ssikila.github.io/newsRSS_to_startme_page/rss.xml#6c1cpt</guid>
-      <description><![CDATA[Malaysia launches Ryt Bank, its first AI-powered bank, while Google's Veo 3 AI video creation tools become widely available, showcasing AI's transformative impact on finance and media.]]></description>
-      <pubDate>Wed, 08 Oct 2025 07:45:07 GMT</pubDate>
+      <link>https://ssikila.github.io/newsRSS_to_startme_page/item8.html</link>
+      <guid isPermaLink="true">https://ssikila.github.io/newsRSS_to_startme_page/item8.html#guid</guid>
+      <description><![CDATA[Generative AI, combined with AI-native platforms, zero trust, and quantum encryption, is driving the next growth wave in telecom enterprise security.]]></description>
+      <pubDate>Wed, 08 Oct 2025 07:50:06 GMT</pubDate>
     </item>
 
     <item>
       <title><![CDATA[Untitled]]></title>
-      <link>https://ssikila.github.io/newsRSS_to_startme_page/</link>
-      <guid>https://ssikila.github.io/newsRSS_to_startme_page/rss.xml#al3bz7</guid>
-      <description><![CDATA[Singtel Enterprise aims to become an AI-first telco by investing in AI, network slicing, digital twins, and autonomous networks.]]></description>
-      <pubDate>Wed, 08 Oct 2025 07:45:07 GMT</pubDate>
+      <link>https://ssikila.github.io/newsRSS_to_startme_page/item9.html</link>
+      <guid isPermaLink="true">https://ssikila.github.io/newsRSS_to_startme_page/item9.html#guid</guid>
+      <description><![CDATA[PwC's 2025 AI Business Predictions outline key trends and strategies driving AI-driven business transformation in the coming years.]]></description>
+      <pubDate>Wed, 08 Oct 2025 07:50:06 GMT</pubDate>
     </item>
 
     <item>
       <title><![CDATA[Untitled]]></title>
-      <link>https://ssikila.github.io/newsRSS_to_startme_page/</link>
-      <guid>https://ssikila.github.io/newsRSS_to_startme_page/rss.xml#rzwu0p</guid>
-      <description><![CDATA[The Fed highlights that the rapid growth of AI workloads is significantly increasing data center electricity demand in advanced economies.]]></description>
-      <pubDate>Wed, 08 Oct 2025 07:45:07 GMT</pubDate>
+      <link>https://ssikila.github.io/newsRSS_to_startme_page/item10.html</link>
+      <guid isPermaLink="true">https://ssikila.github.io/newsRSS_to_startme_page/item10.html#guid</guid>
+      <description><![CDATA[A new report highlights that 83% of telecom leaders fear falling behind and urges telcos to adopt Gen AI to achieve productivity gains desired by 63%.]]></description>
+      <pubDate>Wed, 08 Oct 2025 07:50:06 GMT</pubDate>
     </item>
 
     <item>
       <title><![CDATA[Untitled]]></title>
-      <link>https://ssikila.github.io/newsRSS_to_startme_page/</link>
-      <guid>https://ssikila.github.io/newsRSS_to_startme_page/rss.xml#fzml7j</guid>
-      <description><![CDATA[EY warns the telecom sector faces increasing risks from AI challenges, ineffective transformation, and a complex geopolitical environment.]]></description>
-      <pubDate>Wed, 08 Oct 2025 07:45:07 GMT</pubDate>
+      <link>https://ssikila.github.io/newsRSS_to_startme_page/item11.html</link>
+      <guid isPermaLink="true">https://ssikila.github.io/newsRSS_to_startme_page/item11.html#guid</guid>
+      <description><![CDATA[Morgan Stanley’s TMT 2025 conference highlights emerging generative AI trends and innovations driving the future of technology, media, and telecom industries.]]></description>
+      <pubDate>Wed, 08 Oct 2025 07:50:06 GMT</pubDate>
     </item>
 
     <item>
       <title><![CDATA[Untitled]]></title>
-      <link>https://ssikila.github.io/newsRSS_to_startme_page/</link>
-      <guid>https://ssikila.github.io/newsRSS_to_startme_page/rss.xml#2ztq51</guid>
-      <description><![CDATA[Telefónica highlights major hyperscalers like AWS, Azure, and GCP integrating generative AI, foundational models, and synthetic data as key trends shaping the future of public clouds.]]></description>
-      <pubDate>Wed, 08 Oct 2025 07:45:07 GMT</pubDate>
+      <link>https://ssikila.github.io/newsRSS_to_startme_page/item12.html</link>
+      <guid isPermaLink="true">https://ssikila.github.io/newsRSS_to_startme_page/item12.html#guid</guid>
+      <description><![CDATA[The Richmond Fed compares AI investment growth to the telecom boom, exploring if the current AI surge represents a similar speculative bubble.]]></description>
+      <pubDate>Wed, 08 Oct 2025 07:50:06 GMT</pubDate>
     </item>
 
     <item>
       <title><![CDATA[Untitled]]></title>
-      <link>https://ssikila.github.io/newsRSS_to_startme_page/</link>
-      <guid>https://ssikila.github.io/newsRSS_to_startme_page/rss.xml#dvkqul</guid>
-      <description><![CDATA[The Richmond Fed questions whether current AI investments mirror the 1990s telecom boom and bust, cautioning about a potential AI bubble.]]></description>
-      <pubDate>Wed, 08 Oct 2025 07:45:07 GMT</pubDate>
+      <link>https://ssikila.github.io/newsRSS_to_startme_page/item13.html</link>
+      <guid isPermaLink="true">https://ssikila.github.io/newsRSS_to_startme_page/item13.html#guid</guid>
+      <description><![CDATA[Deloitte predicts that rapid generative AI adoption and telecom advancements will drive a transformative leap in the Technology, Media, and Telecom (TMT) sector by 2025.]]></description>
+      <pubDate>Wed, 08 Oct 2025 07:50:06 GMT</pubDate>
     </item>
 
     <item>
       <title><![CDATA[Untitled]]></title>
-      <link>https://ssikila.github.io/newsRSS_to_startme_page/</link>
-      <guid>https://ssikila.github.io/newsRSS_to_startme_page/rss.xml#50gz2d</guid>
-      <description><![CDATA[A global study of 100+ tier-1 telecom executives reveals significant opportunities and practical applications for generative AI in the telecom industry.]]></description>
-      <pubDate>Wed, 08 Oct 2025 07:45:07 GMT</pubDate>
+      <link>https://ssikila.github.io/newsRSS_to_startme_page/item14.html</link>
+      <guid isPermaLink="true">https://ssikila.github.io/newsRSS_to_startme_page/item14.html#guid</guid>
+      <description><![CDATA[Malaysia launches Ryt Bank, its first AI-powered bank, while Google's Veo 3 AI video creation tools become widely available, signaling major AI-driven innovations in finance and media.]]></description>
+      <pubDate>Wed, 08 Oct 2025 07:50:06 GMT</pubDate>
     </item>
 
     <item>
       <title><![CDATA[Untitled]]></title>
-      <link>https://ssikila.github.io/newsRSS_to_startme_page/</link>
-      <guid>https://ssikila.github.io/newsRSS_to_startme_page/rss.xml#6b6kd4</guid>
-      <description><![CDATA[Generative AI is revolutionizing telecom by serving as a reliable knowledge base for AI-powered network management and optimization.]]></description>
-      <pubDate>Wed, 08 Oct 2025 07:45:07 GMT</pubDate>
+      <link>https://ssikila.github.io/newsRSS_to_startme_page/item15.html</link>
+      <guid isPermaLink="true">https://ssikila.github.io/newsRSS_to_startme_page/item15.html#guid</guid>
+      <description><![CDATA[Leading telecom companies are rapidly adopting agentic AI to transform operations, becoming faster and more efficient, according to McKinsey insights.]]></description>
+      <pubDate>Wed, 08 Oct 2025 07:50:06 GMT</pubDate>
+    </item>
+
+    <item>
+      <title><![CDATA[Untitled]]></title>
+      <link>https://ssikila.github.io/newsRSS_to_startme_page/item16.html</link>
+      <guid isPermaLink="true">https://ssikila.github.io/newsRSS_to_startme_page/item16.html#guid</guid>
+      <description><![CDATA[Telefónica highlights public cloud trends as major hyperscalers like AWS, Azure, and GCP integrate generative AI, foundational models, and synthetic data.]]></description>
+      <pubDate>Wed, 08 Oct 2025 07:50:06 GMT</pubDate>
     </item>
   </channel>
 </rss>
