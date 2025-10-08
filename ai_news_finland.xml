@@ -8,22 +8,22 @@
     <atom:link href="https://ssikila.github.io/newsRSS_to_startme_page/rss.xml" rel="self" type="application/rss+xml" />
     <description><![CDATA[Daily AI & Telecom insights curated by n8n + Perplexity]]></description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 08 Oct 2025 17:14:03 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 Oct 2025 17:21:25 GMT</lastBuildDate>
     <generator>n8n RSS Generator</generator>
     
       <item>
-        <title><![CDATA[The State of AI in Finland 2025: A Growing Ecosystem]]></title>
-        <link>https://www.businessfinland.fi/en/whats-new/news/2025/the-state-of-ai-in-finland-2025-a-growing-ecosystem-needs-bold-investments</link>
-        <guid isPermaLink="true">https://www.businessfinland.fi/en/whats-new/news/2025/the-state-of-ai-in-finland-2025-a-growing-ecosystem-needs-bold-investments#guid</guid>
+        <title><![CDATA[Tekoälyn tila Suomessa 2025: kasvava ekosysteemi]]></title>
+        <link>https://www.businessfinland.fi/ajankohtaista/uutiset/2025/tekoalyn-tila-suomessa-2025-kasvava--ekosysteemi-kaipaa-rohkeita-investointeja</link>
+        <guid isPermaLink="true">https://www.businessfinland.fi/ajankohtaista/uutiset/2025/tekoalyn-tila-suomessa-2025-kasvava--ekosysteemi-kaipaa-rohkeita-investointeja#guid</guid>
         <description><![CDATA[
-      <p><img src="https://www.oecd.org/adobe/dynamicmedia/deliver/dm-aid--1789f029-3131-4c07-8d51-9b956f14419e/figure-1-ai-intensity-blog-february-2025.png?quality=80&amp;preferwebp=true" alt="Article image" width="600" /><br/>
-      The Finnish AI Landscape 2025 provides an overview of the current state of AI adoption and development in Finland.</p>
-      <p><a href="https://www.businessfinland.fi/en/whats-new/news/2025/the-state-of-ai-in-finland-2025-a-growing-ecosystem-needs-bold-investments" target="_blank">Read full article →</a></p>
+      <p><img src="https://aifinland.fi/wp-content/uploads/2024/12/martti-salmi-KG5XZKcBIjs-unsplash-968x528.jpg" alt="Article image" width="600" /><br/>
+      &apos;Tekoälyn tila Suomessa 2025&apos; -katsaus on tehty juuri tästä tarpeesta, sanoo Finlandin Generatiivinen tekoäly -kampanjan johtaja Timo Sorsa.</p>
+      <p><a href="https://www.businessfinland.fi/ajankohtaista/uutiset/2025/tekoalyn-tila-suomessa-2025-kasvava--ekosysteemi-kaipaa-rohkeita-investointeja" target="_blank">Read full article →</a></p>
     ]]></description>
-        <enclosure url="https://www.oecd.org/adobe/dynamicmedia/deliver/dm-aid--1789f029-3131-4c07-8d51-9b956f14419e/figure-1-ai-intensity-blog-february-2025.png?quality=80&amp;preferwebp=true" type="image/jpeg" />
-        <media:content url="https://www.oecd.org/adobe/dynamicmedia/deliver/dm-aid--1789f029-3131-4c07-8d51-9b956f14419e/figure-1-ai-intensity-blog-february-2025.png?quality=80&amp;preferwebp=true" type="image/jpeg" medium="image" />
-         <media:thumbnail url="https://www.oecd.org/adobe/dynamicmedia/deliver/dm-aid--1789f029-3131-4c07-8d51-9b956f14419e/figure-1-ai-intensity-blog-february-2025.png?quality=80&amp;preferwebp=true" />
-        <pubDate>Thu, 06 Feb 2025 00:00:00 GMT</pubDate>
+        <enclosure url="https://aifinland.fi/wp-content/uploads/2024/12/martti-salmi-KG5XZKcBIjs-unsplash-968x528.jpg" type="image/jpeg" />
+        <media:content url="https://aifinland.fi/wp-content/uploads/2024/12/martti-salmi-KG5XZKcBIjs-unsplash-968x528.jpg" type="image/jpeg" medium="image" />
+         <media:thumbnail url="https://aifinland.fi/wp-content/uploads/2024/12/martti-salmi-KG5XZKcBIjs-unsplash-968x528.jpg" />
+        <pubDate>Mon, 10 Feb 2025 00:00:00 GMT</pubDate>
       </item>
 
       <item>
@@ -31,14 +31,59 @@
         <link>https://www.ellisinstitute.fi</link>
         <guid isPermaLink="true">https://www.ellisinstitute.fi#guid</guid>
         <description><![CDATA[
-      <p><img src="https://www.businessfinland.fi/4907f7/globalassets/finnish-customers/news/news/2025/landscape_li.png?w=550" alt="Article image" width="600" /><br/>
-      Finland&apos;s new AI powerhouse: ELLIS Finland and ERC join forces to solve AI&apos;s biggest weakness · Feature interview in Finland&apos;s biggest newspaper: Samuel Kaski ...</p>
+      <p><img src="https://static.wixstatic.com/media/6c21bf_7621230128d048f28a2cd16e4d4dbd40~mv2.jpg/v1/fill/w_980,h_653,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/6c21bf_7621230128d048f28a2cd16e4d4dbd40~mv2.jpg" alt="Article image" width="600" /><br/>
+      A newly established world-class research hub in AI and machine learning. We are developing an ecosystem of top talents, businesses and investments in Finland.</p>
       <p><a href="https://www.ellisinstitute.fi" target="_blank">Read full article →</a></p>
     ]]></description>
-        <enclosure url="https://www.businessfinland.fi/4907f7/globalassets/finnish-customers/news/news/2025/landscape_li.png?w=550" type="image/jpeg" />
-        <media:content url="https://www.businessfinland.fi/4907f7/globalassets/finnish-customers/news/news/2025/landscape_li.png?w=550" type="image/jpeg" medium="image" />
-         <media:thumbnail url="https://www.businessfinland.fi/4907f7/globalassets/finnish-customers/news/news/2025/landscape_li.png?w=550" />
+        <enclosure url="https://static.wixstatic.com/media/6c21bf_7621230128d048f28a2cd16e4d4dbd40~mv2.jpg/v1/fill/w_980,h_653,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/6c21bf_7621230128d048f28a2cd16e4d4dbd40~mv2.jpg" type="image/jpeg" />
+        <media:content url="https://static.wixstatic.com/media/6c21bf_7621230128d048f28a2cd16e4d4dbd40~mv2.jpg/v1/fill/w_980,h_653,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/6c21bf_7621230128d048f28a2cd16e4d4dbd40~mv2.jpg" type="image/jpeg" medium="image" />
+         <media:thumbnail url="https://static.wixstatic.com/media/6c21bf_7621230128d048f28a2cd16e4d4dbd40~mv2.jpg/v1/fill/w_980,h_653,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/6c21bf_7621230128d048f28a2cd16e4d4dbd40~mv2.jpg" />
         <pubDate>Wed, 20 Aug 2025 00:00:00 GMT</pubDate>
+      </item>
+
+      <item>
+        <title><![CDATA[Tekoälyn tila Suomessa 2025: Kasvava ekosysteemi ... - AI Finland]]></title>
+        <link>https://aifinland.fi/tekoalyn-tila-suomessa-2025-kasvava-ekosysteemi-kaipaa-rohkeita-investointeja/</link>
+        <guid isPermaLink="true">https://aifinland.fi/tekoalyn-tila-suomessa-2025-kasvava-ekosysteemi-kaipaa-rohkeita-investointeja/#guid</guid>
+        <description><![CDATA[
+      <p><img src="https://www.businessfinland.fi/4907f4/globalassets/finnish-customers/news/news/2025/tekoalyntilasuomessa_li.png" alt="Article image" width="600" /><br/>
+      Tekoälyn tila Suomessa 2025: Kasvava ekosysteemi kaipaa rohkeita investointeja. 6.2.2025 - Uutiset. AI Finlandin ja Business Finlandin yhteisjulkaisu ...</p>
+      <p><a href="https://aifinland.fi/tekoalyn-tila-suomessa-2025-kasvava-ekosysteemi-kaipaa-rohkeita-investointeja/" target="_blank">Read full article →</a></p>
+    ]]></description>
+        <enclosure url="https://www.businessfinland.fi/4907f4/globalassets/finnish-customers/news/news/2025/tekoalyntilasuomessa_li.png" type="image/jpeg" />
+        <media:content url="https://www.businessfinland.fi/4907f4/globalassets/finnish-customers/news/news/2025/tekoalyntilasuomessa_li.png" type="image/jpeg" medium="image" />
+         <media:thumbnail url="https://www.businessfinland.fi/4907f4/globalassets/finnish-customers/news/news/2025/tekoalyntilasuomessa_li.png" />
+        <pubDate>Thu, 06 Feb 2025 00:00:00 GMT</pubDate>
+      </item>
+
+      <item>
+        <title><![CDATA[News – Finnish AI Region]]></title>
+        <link>https://www.fairedih.fi/en/frontpage/news/</link>
+        <guid isPermaLink="true">https://www.fairedih.fi/en/frontpage/news/#guid</guid>
+        <description><![CDATA[
+      <p><img src="https://www.uusiteknologia.fi/wp-content/uploads/2025/02/AIFinland_dokumentti2025.jpg" alt="Article image" width="600" /><br/>
+      Algorithmic management spreads across Finnish workplaces – younger workers show greater acceptance than their older colleagues.</p>
+      <p><a href="https://www.fairedih.fi/en/frontpage/news/" target="_blank">Read full article →</a></p>
+    ]]></description>
+        <enclosure url="https://www.uusiteknologia.fi/wp-content/uploads/2025/02/AIFinland_dokumentti2025.jpg" type="image/jpeg" />
+        <media:content url="https://www.uusiteknologia.fi/wp-content/uploads/2025/02/AIFinland_dokumentti2025.jpg" type="image/jpeg" medium="image" />
+         <media:thumbnail url="https://www.uusiteknologia.fi/wp-content/uploads/2025/02/AIFinland_dokumentti2025.jpg" />
+        <pubDate>Wed, 09 Apr 2025 00:00:00 GMT</pubDate>
+      </item>
+
+      <item>
+        <title><![CDATA[Tekoäly suomalaisissa yrityksissä – tilanne 2025 ja tulevat trendit]]></title>
+        <link>https://rajut.fi/tekoaly-suomalaisissa-yrityksissa-tilanne-2025-ja-tulevat-trendit/</link>
+        <guid isPermaLink="true">https://rajut.fi/tekoaly-suomalaisissa-yrityksissa-tilanne-2025-ja-tulevat-trendit/#guid</guid>
+        <description><![CDATA[
+      <p><img src="https://aifinland.fi/wp-content/uploads/2025/02/en_finnishailandscape_aifinlandbusinessfinland_2025.jpg" alt="Article image" width="600" /><br/>
+      Toisin sanoen, tekoäly ei ole enää pelkkä tulevaisuuden lupaus – se on jo tätä päivää ja tuottaa liiketoiminnalle konkreettisia hyötyjä. Suomi ...</p>
+      <p><a href="https://rajut.fi/tekoaly-suomalaisissa-yrityksissa-tilanne-2025-ja-tulevat-trendit/" target="_blank">Read full article →</a></p>
+    ]]></description>
+        <enclosure url="https://aifinland.fi/wp-content/uploads/2025/02/en_finnishailandscape_aifinlandbusinessfinland_2025.jpg" type="image/jpeg" />
+        <media:content url="https://aifinland.fi/wp-content/uploads/2025/02/en_finnishailandscape_aifinlandbusinessfinland_2025.jpg" type="image/jpeg" medium="image" />
+         <media:thumbnail url="https://aifinland.fi/wp-content/uploads/2025/02/en_finnishailandscape_aifinlandbusinessfinland_2025.jpg" />
+        <pubDate>Wed, 24 Sep 2025 00:00:00 GMT</pubDate>
       </item>
 
       <item>
@@ -46,179 +91,59 @@
         <link>https://www.goodnewsfinland.com/en/articles/five-from-finland/2025/finland-ai-solutions/</link>
         <guid isPermaLink="true">https://www.goodnewsfinland.com/en/articles/five-from-finland/2025/finland-ai-solutions/#guid</guid>
         <description><![CDATA[
-      <p><img src="https://teknologiateollisuus.fi/wp-content/uploads/2024/09/ai-funding-968x545.png" alt="Article image" width="600" /><br/>
+      <p><img src="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" alt="Article image" width="600" /><br/>
       Discover how Finnish firms like Capalo, Nvelop, Revieve, Aiforia and Relex are applying AI to energy, healthcare, retail and supply chains ...</p>
       <p><a href="https://www.goodnewsfinland.com/en/articles/five-from-finland/2025/finland-ai-solutions/" target="_blank">Read full article →</a></p>
     ]]></description>
-        <enclosure url="https://teknologiateollisuus.fi/wp-content/uploads/2024/09/ai-funding-968x545.png" type="image/jpeg" />
-        <media:content url="https://teknologiateollisuus.fi/wp-content/uploads/2024/09/ai-funding-968x545.png" type="image/jpeg" medium="image" />
-         <media:thumbnail url="https://teknologiateollisuus.fi/wp-content/uploads/2024/09/ai-funding-968x545.png" />
+        <enclosure url="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" type="image/jpeg" />
+        <media:content url="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" type="image/jpeg" medium="image" />
+         <media:thumbnail url="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" />
         <pubDate>Wed, 17 Sep 2025 00:00:00 GMT</pubDate>
       </item>
 
       <item>
-        <title><![CDATA[Finland - AI Regulatory Horizon Tracker - Bird & Bird]]></title>
-        <link>https://www.twobirds.com/en/capabilities/artificial-intelligence/ai-legal-services/ai-regulatory-horizon-tracker/finland</link>
-        <guid isPermaLink="true">https://www.twobirds.com/en/capabilities/artificial-intelligence/ai-legal-services/ai-regulatory-horizon-tracker/finland#guid</guid>
-        <description><![CDATA[
-      <p><img src="https://images.squarespace-cdn.com/content/v1/5d429cc990aa3d000191d3e3/1731324785161-OCU6UK8DH8ZP79K0J7XX/DSC03693.jpg?format=1000w" alt="Article image" width="600" /><br/>
-      The Government will be proposing a new act on the supervision of AI systems, and changes to existing acts on market surveillance of certain products.</p>
-      <p><a href="https://www.twobirds.com/en/capabilities/artificial-intelligence/ai-legal-services/ai-regulatory-horizon-tracker/finland" target="_blank">Read full article →</a></p>
-    ]]></description>
-        <enclosure url="https://images.squarespace-cdn.com/content/v1/5d429cc990aa3d000191d3e3/1731324785161-OCU6UK8DH8ZP79K0J7XX/DSC03693.jpg?format=1000w" type="image/jpeg" />
-        <media:content url="https://images.squarespace-cdn.com/content/v1/5d429cc990aa3d000191d3e3/1731324785161-OCU6UK8DH8ZP79K0J7XX/DSC03693.jpg?format=1000w" type="image/jpeg" medium="image" />
-         <media:thumbnail url="https://images.squarespace-cdn.com/content/v1/5d429cc990aa3d000191d3e3/1731324785161-OCU6UK8DH8ZP79K0J7XX/DSC03693.jpg?format=1000w" />
-        <pubDate>Sat, 02 Aug 2025 00:00:00 GMT</pubDate>
-      </item>
-
-      <item>
-        <title><![CDATA[How AI Is Helping Government Companies in Finland Cut Costs and ...]]></title>
-        <link>https://www.nucamp.co/blog/coding-bootcamp-finland-fin-government-how-ai-is-helping-government-companies-in-finland-cut-costs-and-improve-efficiency</link>
-        <guid isPermaLink="true">https://www.nucamp.co/blog/coding-bootcamp-finland-fin-government-how-ai-is-helping-government-companies-in-finland-cut-costs-and-improve-efficiency#guid</guid>
-        <description><![CDATA[
-      <p><img src="https://www.oecd.org/adobe/dynamicmedia/deliver/dm-aid--a096a11b-48bc-44b3-b337-f998e657340b/image17.png?quality=80&amp;preferwebp=true" alt="Article image" width="600" /><br/>
-      AI helps Finland&apos;s government companies cut costs and boost efficiency by automating routine tasks - estimated gains include up to €3 ...</p>
-      <p><a href="https://www.nucamp.co/blog/coding-bootcamp-finland-fin-government-how-ai-is-helping-government-companies-in-finland-cut-costs-and-improve-efficiency" target="_blank">Read full article →</a></p>
-    ]]></description>
-        <enclosure url="https://www.oecd.org/adobe/dynamicmedia/deliver/dm-aid--a096a11b-48bc-44b3-b337-f998e657340b/image17.png?quality=80&amp;preferwebp=true" type="image/jpeg" />
-        <media:content url="https://www.oecd.org/adobe/dynamicmedia/deliver/dm-aid--a096a11b-48bc-44b3-b337-f998e657340b/image17.png?quality=80&amp;preferwebp=true" type="image/jpeg" medium="image" />
-         <media:thumbnail url="https://www.oecd.org/adobe/dynamicmedia/deliver/dm-aid--a096a11b-48bc-44b3-b337-f998e657340b/image17.png?quality=80&amp;preferwebp=true" />
-        <pubDate>Mon, 08 Sep 2025 00:00:00 GMT</pubDate>
-      </item>
-
-      <item>
-        <title><![CDATA[Finland is using drones and AI to tackle congestion. Is it safe?]]></title>
-        <link>https://www.youtube.com/watch?v=Z0cCMnHPy-E</link>
-        <guid isPermaLink="true">https://www.youtube.com/watch?v=Z0cCMnHPy-E#guid</guid>
+        <title><![CDATA[Uutiset - Finnish AI Region – FAIR]]></title>
+        <link>https://www.fairedih.fi/etusivu/uutiset/</link>
+        <guid isPermaLink="true">https://www.fairedih.fi/etusivu/uutiset/#guid</guid>
         <description><![CDATA[
       <p><img src="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" alt="Article image" width="600" /><br/>
-      traffic flow into the AI to create simulations. READ MORE : http://www.euronews.com/2025/10/08/finland-is-using-drones-and-ai ... DRM News New 20K ...</p>
-      <p><a href="https://www.youtube.com/watch?v=Z0cCMnHPy-E" target="_blank">Read full article →</a></p>
+      Suomi houkuttelee ulkomaisia sijoituksia, mutta Ruotsi vie selvästi voiton · 30 syyskuun, 2025 /. Suomi houkutteli viime vuonna 2,4 miljardia euroa ulkomaisia ...</p>
+      <p><a href="https://www.fairedih.fi/etusivu/uutiset/" target="_blank">Read full article →</a></p>
     ]]></description>
         <enclosure url="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" type="image/jpeg" />
         <media:content url="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" type="image/jpeg" medium="image" />
          <media:thumbnail url="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" />
-        <pubDate>Wed, 08 Oct 2025 00:00:00 GMT</pubDate>
+        <pubDate>Thu, 13 Feb 2025 00:00:00 GMT</pubDate>
       </item>
 
       <item>
-        <title><![CDATA[Finland is using drones and AI to tackle congestion. Is it safe?]]></title>
-        <link>https://www.euronews.com/next/2025/10/08/finland-is-using-drones-and-ai-to-tackle-congestion-is-it-safe</link>
-        <guid isPermaLink="true">https://www.euronews.com/next/2025/10/08/finland-is-using-drones-and-ai-to-tackle-congestion-is-it-safe#guid</guid>
+        <title><![CDATA[Finland's next AI wave? 19 startups join Journeys: AI & Deep Tech]]></title>
+        <link>https://www.youtube.com/watch?v=as0JzU3OmL8</link>
+        <guid isPermaLink="true">https://www.youtube.com/watch?v=as0JzU3OmL8#guid</guid>
         <description><![CDATA[
       <p><img src="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" alt="Article image" width="600" /><br/>
-      Eventually, the data gathered from the drones will feed information on congestion formation and traffic flow into the AI to create simulations.</p>
-      <p><a href="https://www.euronews.com/next/2025/10/08/finland-is-using-drones-and-ai-to-tackle-congestion-is-it-safe" target="_blank">Read full article →</a></p>
+      ... Finnish and international operators, and investor touchpoints ... DRM News New 60K views · 25:13 · Go to channel · Why India&apos;s South is ...</p>
+      <p><a href="https://www.youtube.com/watch?v=as0JzU3OmL8" target="_blank">Read full article →</a></p>
     ]]></description>
         <enclosure url="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" type="image/jpeg" />
         <media:content url="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" type="image/jpeg" medium="image" />
          <media:thumbnail url="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" />
-        <pubDate>Wed, 08 Oct 2025 00:00:00 GMT</pubDate>
+        <pubDate>Wed, 27 Aug 2025 00:00:00 GMT</pubDate>
       </item>
 
       <item>
-        <title><![CDATA[Science and technology news from Finland "Helsinki Times"]]></title>
-        <link>https://www.helsinkitimes.fi/themes/themes/science-and-technology.html</link>
-        <guid isPermaLink="true">https://www.helsinkitimes.fi/themes/themes/science-and-technology.html#guid</guid>
+        <title><![CDATA[AI Finland: Tekoälyn kehityksen verkosto Suomessa]]></title>
+        <link>https://aifinland.fi</link>
+        <guid isPermaLink="true">https://aifinland.fi#guid</guid>
         <description><![CDATA[
       <p><img src="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" alt="Article image" width="600" /><br/>
-      Finland launches Europe&apos;s first 50-qubit quantum computer · New book examines the ethical dilemmas of AI and automation · 6G-VERSUS project launches to drive ...</p>
-      <p><a href="https://www.helsinkitimes.fi/themes/themes/science-and-technology.html" target="_blank">Read full article →</a></p>
+      AI Finlandin ja Business Finlandin yhteisjulkaisu Tekoälyn tila Suomessa 2025 tarjoaa katsauksen tekoälyn hyödyntämisen ja kehittämisen tilasta Suomessa.</p>
+      <p><a href="https://aifinland.fi" target="_blank">Read full article →</a></p>
     ]]></description>
         <enclosure url="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" type="image/jpeg" />
         <media:content url="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" type="image/jpeg" medium="image" />
          <media:thumbnail url="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" />
-        <pubDate>Tue, 01 Jul 2025 00:00:00 GMT</pubDate>
-      </item>
-
-      <item>
-        <title><![CDATA[Survey finds AI, automation reshape Finland's workplaces - Xinhua]]></title>
-        <link>https://english.news.cn/20251009/76855f317ec64ffaad0d0627c3775195/c.html</link>
-        <guid isPermaLink="true">https://english.news.cn/20251009/76855f317ec64ffaad0d0627c3775195/c.html#guid</guid>
-        <description><![CDATA[
-      <p><img src="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" alt="Article image" width="600" /><br/>
-      The survey found that 22 percent of companies have experienced a decline in manual labor due to AI, while 10 percent reported a reduction in ...</p>
-      <p><a href="https://english.news.cn/20251009/76855f317ec64ffaad0d0627c3775195/c.html" target="_blank">Read full article →</a></p>
-    ]]></description>
-        <enclosure url="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" type="image/jpeg" />
-        <media:content url="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" type="image/jpeg" medium="image" />
-         <media:thumbnail url="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" />
-        <pubDate>Wed, 08 Oct 2025 00:00:00 GMT</pubDate>
-      </item>
-
-      <item>
-        <title><![CDATA[Impact — FCAI - Finnish Center for Artificial Intelligence]]></title>
-        <link>https://fcai.fi/impact</link>
-        <guid isPermaLink="true">https://fcai.fi/impact#guid</guid>
-        <description><![CDATA[
-      <p><img src="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" alt="Article image" width="600" /><br/>
-      By successfully applying AI, Finland can reach a €20-billion and 8% annual boost in GDP by the year 2023. With focused AI-based activities in business, net ...</p>
-      <p><a href="https://fcai.fi/impact" target="_blank">Read full article →</a></p>
-    ]]></description>
-        <enclosure url="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" type="image/jpeg" />
-        <media:content url="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" type="image/jpeg" medium="image" />
-         <media:thumbnail url="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" />
-        <pubDate>Wed, 27 Nov 2024 00:00:00 GMT</pubDate>
-      </item>
-
-      <item>
-        <title><![CDATA[AI Day 2025 — FCAI - Finnish Center for Artificial Intelligence]]></title>
-        <link>https://fcai.fi/ai-day-2025</link>
-        <guid isPermaLink="true">https://fcai.fi/ai-day-2025#guid</guid>
-        <description><![CDATA[
-      <p><img src="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" alt="Article image" width="600" /><br/>
-      November 13, 2025. Dipoli, Aalto University (Otakaari 24, Espoo). AI Day is the biggest annual event highlighting the leading AI research in Finland.</p>
-      <p><a href="https://fcai.fi/ai-day-2025" target="_blank">Read full article →</a></p>
-    ]]></description>
-        <enclosure url="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" type="image/jpeg" />
-        <media:content url="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" type="image/jpeg" medium="image" />
-         <media:thumbnail url="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" />
-        <pubDate>Tue, 09 Sep 2025 00:00:00 GMT</pubDate>
-      </item>
-
-      <item>
-        <title><![CDATA[Generative AI - Business Finland]]></title>
-        <link>https://www.businessfinland.fi/en/campaign-sites/generative-ai</link>
-        <guid isPermaLink="true">https://www.businessfinland.fi/en/campaign-sites/generative-ai#guid</guid>
-        <description><![CDATA[
-      <p><img src="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" alt="Article image" width="600" /><br/>
-      Generative AI will boost global economic growth in the coming decade. It can increase productivity and boost Finland&apos;s competitiveness. To maximise the benefits ...</p>
-      <p><a href="https://www.businessfinland.fi/en/campaign-sites/generative-ai" target="_blank">Read full article →</a></p>
-    ]]></description>
-        <enclosure url="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" type="image/jpeg" />
-        <media:content url="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" type="image/jpeg" medium="image" />
-         <media:thumbnail url="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" />
-        <pubDate>Mon, 22 Apr 2024 00:00:00 GMT</pubDate>
-      </item>
-
-      <item>
-        <title><![CDATA[Application of EU Artificial Intelligence Act to begin on 2 August 2025]]></title>
-        <link>https://valtioneuvosto.fi/en/-/1410877/application-of-eu-artificial-intelligence-act-to-begin-on-2-august-2025</link>
-        <guid isPermaLink="true">https://valtioneuvosto.fi/en/-/1410877/application-of-eu-artificial-intelligence-act-to-begin-on-2-august-2025#guid</guid>
-        <description><![CDATA[
-      <p><img src="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" alt="Article image" width="600" /><br/>
-      The provisions of the EU AI Regulation on, for example, general-purpose AI models will be applied in the EU countries as of 2.8.2025.</p>
-      <p><a href="https://valtioneuvosto.fi/en/-/1410877/application-of-eu-artificial-intelligence-act-to-begin-on-2-august-2025" target="_blank">Read full article →</a></p>
-    ]]></description>
-        <enclosure url="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" type="image/jpeg" />
-        <media:content url="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" type="image/jpeg" medium="image" />
-         <media:thumbnail url="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" />
-        <pubDate>Fri, 01 Aug 2025 00:00:00 GMT</pubDate>
-      </item>
-
-      <item>
-        <title><![CDATA[Using AI to make the most of evaluation evidence in Finland - OECD]]></title>
-        <link>https://www.oecd.org/en/publications/development-co-operation-tips-tools-insights-practices_be69e0cf-en/using-ai-to-make-the-most-of-evaluation-evidence-in-finland_ec059edb-en.html</link>
-        <guid isPermaLink="true">https://www.oecd.org/en/publications/development-co-operation-tips-tools-insights-practices_be69e0cf-en/using-ai-to-make-the-most-of-evaluation-evidence-in-finland_ec059edb-en.html#guid</guid>
-        <description><![CDATA[
-      <p><img src="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" alt="Article image" width="600" /><br/>
-      Finland approached the leveraging AI technologies for more effective policy making in several stages: Recognising the potential of AI. The MFA ...</p>
-      <p><a href="https://www.oecd.org/en/publications/development-co-operation-tips-tools-insights-practices_be69e0cf-en/using-ai-to-make-the-most-of-evaluation-evidence-in-finland_ec059edb-en.html" target="_blank">Read full article →</a></p>
-    ]]></description>
-        <enclosure url="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" type="image/jpeg" />
-        <media:content url="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" type="image/jpeg" medium="image" />
-         <media:thumbnail url="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" />
-        <pubDate>Thu, 04 Sep 2025 00:00:00 GMT</pubDate>
+        <pubDate>Wed, 21 May 2025 00:00:00 GMT</pubDate>
       </item>
 
       <item>
@@ -227,13 +152,133 @@
         <guid isPermaLink="true">https://www.euronews.com/next/2025/08/19/finlands-war-on-fake-news-starts-in-schools-ai-could-make-that-a-lot-harder#guid</guid>
         <description><![CDATA[
       <p><img src="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" alt="Article image" width="600" /><br/>
-      Finland&apos;s war on fake news starts in schools. AI could make that a lot harder · While Finnish students learn how to discern fact from fiction ...</p>
+      While Finnish students learn how to discern fact from fiction online, media literacy experts say AI-specific training should be guaranteed ...</p>
       <p><a href="https://www.euronews.com/next/2025/08/19/finlands-war-on-fake-news-starts-in-schools-ai-could-make-that-a-lot-harder" target="_blank">Read full article →</a></p>
     ]]></description>
         <enclosure url="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" type="image/jpeg" />
         <media:content url="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" type="image/jpeg" medium="image" />
          <media:thumbnail url="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" />
         <pubDate>Tue, 19 Aug 2025 00:00:00 GMT</pubDate>
+      </item>
+
+      <item>
+        <title><![CDATA[Uutinen | Tekoälyn tila Suomessa 2025 -raportti - Tekoälyfoorumi]]></title>
+        <link>https://www.tekoalyfoorumi.fi/post/uutinen-teko%C3%A4lyn-tila-suomessa-2025-raportti-kansainv%C3%A4linen-kilpailukyky-on-heikentynyt</link>
+        <guid isPermaLink="true">https://www.tekoalyfoorumi.fi/post/uutinen-teko%C3%A4lyn-tila-suomessa-2025-raportti-kansainv%C3%A4linen-kilpailukyky-on-heikentynyt#guid</guid>
+        <description><![CDATA[
+      <p><img src="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" alt="Article image" width="600" /><br/>
+      Suomen tekoälyekosysteemin tila on vuonna 2025 kaksijakoinen: tutkimus ja infrastruktuuri ovat edelleen vahvoja, mutta kansainvälinen kilpailukyky on laskenut.</p>
+      <p><a href="https://www.tekoalyfoorumi.fi/post/uutinen-teko%C3%A4lyn-tila-suomessa-2025-raportti-kansainv%C3%A4linen-kilpailukyky-on-heikentynyt" target="_blank">Read full article →</a></p>
+    ]]></description>
+        <enclosure url="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" type="image/jpeg" />
+        <media:content url="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" type="image/jpeg" medium="image" />
+         <media:thumbnail url="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" />
+        <pubDate>Thu, 13 Mar 2025 00:00:00 GMT</pubDate>
+      </item>
+
+      <item>
+        <title><![CDATA[The only way that AI can provide a new source of wealth for Finland ...]]></title>
+        <link>https://www.vttresearch.com/en/news-and-ideas/only-way-ai-can-provide-new-source-wealth-finland-through-innovations</link>
+        <guid isPermaLink="true">https://www.vttresearch.com/en/news-and-ideas/only-way-ai-can-provide-new-source-wealth-finland-through-innovations#guid</guid>
+        <description><![CDATA[
+      <p><img src="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" alt="Article image" width="600" /><br/>
+      AI innovations, rather than merely improvements in efficiency, are necessary for Finland to achieve new wealth creation, with current focus on ...</p>
+      <p><a href="https://www.vttresearch.com/en/news-and-ideas/only-way-ai-can-provide-new-source-wealth-finland-through-innovations" target="_blank">Read full article →</a></p>
+    ]]></description>
+        <enclosure url="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" type="image/jpeg" />
+        <media:content url="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" type="image/jpeg" medium="image" />
+         <media:thumbnail url="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" />
+        <pubDate>Mon, 28 Apr 2025 00:00:00 GMT</pubDate>
+      </item>
+
+      <item>
+        <title><![CDATA[Tekoäly | Yle.fi | Uutiset, urheilu, ilmiöt]]></title>
+        <link>https://yle.fi/t/18-215158/fi</link>
+        <guid isPermaLink="true">https://yle.fi/t/18-215158/fi#guid</guid>
+        <description><![CDATA[
+      <p><img src="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" alt="Article image" width="600" /><br/>
+      Ylen uutiset aiheesta ”Tekoäly” nopeasti ja luotettavasti.</p>
+      <p><a href="https://yle.fi/t/18-215158/fi" target="_blank">Read full article →</a></p>
+    ]]></description>
+        <enclosure url="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" type="image/jpeg" />
+        <media:content url="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" type="image/jpeg" medium="image" />
+         <media:thumbnail url="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" />
+        <pubDate>Wed, 08 Oct 2025 00:00:00 GMT</pubDate>
+      </item>
+
+      <item>
+        <title><![CDATA[Front page - AI Finland]]></title>
+        <link>https://aifinland.fi/en/front-page/</link>
+        <guid isPermaLink="true">https://aifinland.fi/en/front-page/#guid</guid>
+        <description><![CDATA[
+      <p><img src="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" alt="Article image" width="600" /><br/>
+      AI Finland is a nationwide artificial intelligence network for organizations. Its mission is to accelerate the adoption of AI in Finnish companies.</p>
+      <p><a href="https://aifinland.fi/en/front-page/" target="_blank">Read full article →</a></p>
+    ]]></description>
+        <enclosure url="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" type="image/jpeg" />
+        <media:content url="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" type="image/jpeg" medium="image" />
+         <media:thumbnail url="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" />
+        <pubDate>Mon, 28 Apr 2025 00:00:00 GMT</pubDate>
+      </item>
+
+      <item>
+        <title><![CDATA[AI Champion tuo tekoälyn rakentamisen ja datatalouden tueksi]]></title>
+        <link>https://www.tuni.fi/fi/ajankohtaista/ai-champion-tuo-tekoalyn-rakentamisen-ja-datatalouden-tueksi</link>
+        <guid isPermaLink="true">https://www.tuni.fi/fi/ajankohtaista/ai-champion-tuo-tekoalyn-rakentamisen-ja-datatalouden-tueksi#guid</guid>
+        <description><![CDATA[
+      <p><img src="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" alt="Article image" width="600" /><br/>
+      AI Champion tuo tekoälyn rakentamisen ja datatalouden tueksi. Julkaistu 1.9.2025. Tampereen yliopisto. Tekoälyn avulla luotu ...</p>
+      <p><a href="https://www.tuni.fi/fi/ajankohtaista/ai-champion-tuo-tekoalyn-rakentamisen-ja-datatalouden-tueksi" target="_blank">Read full article →</a></p>
+    ]]></description>
+        <enclosure url="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" type="image/jpeg" />
+        <media:content url="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" type="image/jpeg" medium="image" />
+         <media:thumbnail url="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" />
+        <pubDate>Mon, 01 Sep 2025 00:00:00 GMT</pubDate>
+      </item>
+
+      <item>
+        <title><![CDATA[Finnish tourism firm strengthens market position with AI-assisted ...]]></title>
+        <link>https://www.cgi.com/en/case-study/artificial-intelligence/finnish-tourism-firm-strengthens-market-position-with-ai-assisted-technology-modernization-and-a-new-strategy</link>
+        <guid isPermaLink="true">https://www.cgi.com/en/case-study/artificial-intelligence/finnish-tourism-firm-strengthens-market-position-with-ai-assisted-technology-modernization-and-a-new-strategy#guid</guid>
+        <description><![CDATA[
+      <p><img src="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" alt="Article image" width="600" /><br/>
+      Finnish tourism firm strengthens market position with AI-assisted technology modernization and a new strategy. 2 min read. Woman smiling at the airport.</p>
+      <p><a href="https://www.cgi.com/en/case-study/artificial-intelligence/finnish-tourism-firm-strengthens-market-position-with-ai-assisted-technology-modernization-and-a-new-strategy" target="_blank">Read full article →</a></p>
+    ]]></description>
+        <enclosure url="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" type="image/jpeg" />
+        <media:content url="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" type="image/jpeg" medium="image" />
+         <media:thumbnail url="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" />
+        <pubDate>Fri, 01 Aug 2025 00:00:00 GMT</pubDate>
+      </item>
+
+      <item>
+        <title><![CDATA[Finnish Center for Artificial Intelligence (FCAI)]]></title>
+        <link>https://www.clustercollaboration.eu/content/finnish-center-artificial-intelligence-fcai</link>
+        <guid isPermaLink="true">https://www.clustercollaboration.eu/content/finnish-center-artificial-intelligence-fcai#guid</guid>
+        <description><![CDATA[
+      <p><img src="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" alt="Article image" width="600" /><br/>
+      FCAI is a nation-wide competence center for Artificial Intelligence in Finland, initiated by Aalto University, University of Helsinki, and VTT Technical ...</p>
+      <p><a href="https://www.clustercollaboration.eu/content/finnish-center-artificial-intelligence-fcai" target="_blank">Read full article →</a></p>
+    ]]></description>
+        <enclosure url="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" type="image/jpeg" />
+        <media:content url="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" type="image/jpeg" medium="image" />
+         <media:thumbnail url="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" />
+        <pubDate>Sun, 01 Feb 2004 00:00:00 GMT</pubDate>
+      </item>
+
+      <item>
+        <title><![CDATA[Finnish Research Consortium Pioneers AI Breakthrough in ... - Syke]]></title>
+        <link>https://www.syke.fi/en/about-us/news/finnish-research-consortium-pioneers-ai-breakthrough-sustainable-mineral-exploration-eu56-million</link>
+        <guid isPermaLink="true">https://www.syke.fi/en/about-us/news/finnish-research-consortium-pioneers-ai-breakthrough-sustainable-mineral-exploration-eu56-million#guid</guid>
+        <description><![CDATA[
+      <p><img src="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" alt="Article image" width="600" /><br/>
+      The consortium has been awarded 5.6 million euros in co-innovation funding from Business Finland for the ambitious Artificial Intelligence in Mineral ...</p>
+      <p><a href="https://www.syke.fi/en/about-us/news/finnish-research-consortium-pioneers-ai-breakthrough-sustainable-mineral-exploration-eu56-million" target="_blank">Read full article →</a></p>
+    ]]></description>
+        <enclosure url="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" type="image/jpeg" />
+        <media:content url="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" type="image/jpeg" medium="image" />
+         <media:thumbnail url="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" />
+        <pubDate>Fri, 13 Oct 2023 00:00:00 GMT</pubDate>
       </item>
   </channel>
 </rss>
