@@ -8,187 +8,142 @@
     <atom:link href="https://ssikila.github.io/newsRSS_to_startme_page/rss.xml" rel="self" type="application/rss+xml" />
     <description><![CDATA[Daily AI & Telecom insights curated by n8n + Perplexity]]></description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 08 Oct 2025 16:19:24 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 Oct 2025 16:32:36 GMT</lastBuildDate>
     <generator>n8n RSS Generator</generator>
     
       <item>
-        <title><![CDATA[The 45 Best AI Tools in 2025 (Tried & Tested) - Synthesia]]></title>
-        <link>https://www.synthesia.io/post/ai-tools</link>
-        <guid isPermaLink="true">https://www.synthesia.io/post/ai-tools#guid</guid>
+        <title><![CDATA[[PDF] State of AI in Telecommunications: 2025 Trends - Congress.gov]]></title>
+        <link>https://www.congress.gov/119/meeting/house/118333/witnesses/HHRG-119-IF16-Wstate-VasishtaR-20250604-SD1961949.pdf</link>
+        <guid isPermaLink="true">https://www.congress.gov/119/meeting/house/118333/witnesses/HHRG-119-IF16-Wstate-VasishtaR-20250604-SD1961949.pdf#guid</guid>
         <description><![CDATA[
-      <p><img src="https://www.solulab.com/wp-content/uploads/2023/09/Top-Generative-AI-Tools.webp" alt="Article image" width="600" /><br/>
-      Some of the best AI tools right now include ChatGPT for general assistance, Synthesia for video generation, Midjourney for image creation, Fathom for meeting ...</p>
-      <p><a href="https://www.synthesia.io/post/ai-tools" target="_blank">Read full article →</a></p>
+      <p><img src="https://d3lkc3n5th01x7.cloudfront.net/wp-content/uploads/2023/08/11054540/Generative-AI-in-telecom-2.png" alt="Article image" width="600" /><br/>
+      Generative AI is a new application of AI that uses neural networks to identify patterns and structures within existing data to generate new and original.</p>
+      <p><a href="https://www.congress.gov/119/meeting/house/118333/witnesses/HHRG-119-IF16-Wstate-VasishtaR-20250604-SD1961949.pdf" target="_blank">Read full article →</a></p>
     ]]></description>
-        <enclosure url="https://www.solulab.com/wp-content/uploads/2023/09/Top-Generative-AI-Tools.webp" type="image/jpeg" />
-        <media:content url="https://www.solulab.com/wp-content/uploads/2023/09/Top-Generative-AI-Tools.webp" type="image/jpeg" medium="image" />
-         <media:thumbnail url="https://www.solulab.com/wp-content/uploads/2023/09/Top-Generative-AI-Tools.webp" />
-        <pubDate>Mon, 15 Sep 2025 00:00:00 GMT</pubDate>
+        <enclosure url="https://d3lkc3n5th01x7.cloudfront.net/wp-content/uploads/2023/08/11054540/Generative-AI-in-telecom-2.png" type="image/jpeg" />
+        <media:content url="https://d3lkc3n5th01x7.cloudfront.net/wp-content/uploads/2023/08/11054540/Generative-AI-in-telecom-2.png" type="image/jpeg" medium="image" />
+         <media:thumbnail url="https://d3lkc3n5th01x7.cloudfront.net/wp-content/uploads/2023/08/11054540/Generative-AI-in-telecom-2.png" />
+        <pubDate>Wed, 08 Oct 2025 16:32:36 GMT</pubDate>
       </item>
 
       <item>
-        <title><![CDATA[Generative AI news and analysis - TechCrunch]]></title>
-        <link>https://techcrunch.com/tag/generative-ai/</link>
-        <guid isPermaLink="true">https://techcrunch.com/tag/generative-ai/#guid</guid>
+        <title><![CDATA[Top 10: AI Partners for Telcos]]></title>
+        <link>https://telcomagazine.com/top10/top-10-ai-partners-for-telcos</link>
+        <guid isPermaLink="true">https://telcomagazine.com/top10/top-10-ai-partners-for-telcos#guid</guid>
         <description><![CDATA[
-      <p><img src="https://images.prismic.io/turing/Z-7V5ndAxsiBwS7Z_Top_Generative_AI_Tools_and_Apps-1-.png?auto=format,compress" alt="Article image" width="600" /><br/>
-      TechCrunch covers the latest news and analysis in Generative AI (GenAI). Read the latest on startups and founders building artificial intelligence tools.</p>
-      <p><a href="https://techcrunch.com/tag/generative-ai/" target="_blank">Read full article →</a></p>
+      <p><img src="https://cdn.prod.website-files.com/65d8ee5f025f02594c614c17/66d1cb43c828d265e5c2d95e_66d1c9cc7c2e698c39ceb436_2.webp" alt="Article image" width="600" /><br/>
+      It empowers telecom operators to design, control and sell their own AI services, enabling them to move beyond connectivity into enterprise-grade ...</p>
+      <p><a href="https://telcomagazine.com/top10/top-10-ai-partners-for-telcos" target="_blank">Read full article →</a></p>
     ]]></description>
-        <enclosure url="https://images.prismic.io/turing/Z-7V5ndAxsiBwS7Z_Top_Generative_AI_Tools_and_Apps-1-.png?auto=format,compress" type="image/jpeg" />
-        <media:content url="https://images.prismic.io/turing/Z-7V5ndAxsiBwS7Z_Top_Generative_AI_Tools_and_Apps-1-.png?auto=format,compress" type="image/jpeg" medium="image" />
-         <media:thumbnail url="https://images.prismic.io/turing/Z-7V5ndAxsiBwS7Z_Top_Generative_AI_Tools_and_Apps-1-.png?auto=format,compress" />
+        <enclosure url="https://cdn.prod.website-files.com/65d8ee5f025f02594c614c17/66d1cb43c828d265e5c2d95e_66d1c9cc7c2e698c39ceb436_2.webp" type="image/jpeg" />
+        <media:content url="https://cdn.prod.website-files.com/65d8ee5f025f02594c614c17/66d1cb43c828d265e5c2d95e_66d1c9cc7c2e698c39ceb436_2.webp" type="image/jpeg" medium="image" />
+         <media:thumbnail url="https://cdn.prod.website-files.com/65d8ee5f025f02594c614c17/66d1cb43c828d265e5c2d95e_66d1c9cc7c2e698c39ceb436_2.webp" />
+        <pubDate>Wed, 08 Oct 2025 00:00:00 GMT</pubDate>
+      </item>
+
+      <item>
+        <title><![CDATA[Top 26 Generative AI Development Companies in October 2025]]></title>
+        <link>https://algoscale.com/blog/top-generative-ai-development-companies/</link>
+        <guid isPermaLink="true">https://algoscale.com/blog/top-generative-ai-development-companies/#guid</guid>
+        <description><![CDATA[
+      <p><img src="https://d1krbhyfejrtpz.cloudfront.net/blog/wp-content/uploads/2024/10/07183803/Generative-AI-in-Telecom.jpg" alt="Article image" width="600" /><br/>
+      Discover the top 26 generative AI development companies in October 2025. Explore expert solutions for ChatGPT, LLMs, and AI-powered business growth.</p>
+      <p><a href="https://algoscale.com/blog/top-generative-ai-development-companies/" target="_blank">Read full article →</a></p>
+    ]]></description>
+        <enclosure url="https://d1krbhyfejrtpz.cloudfront.net/blog/wp-content/uploads/2024/10/07183803/Generative-AI-in-Telecom.jpg" type="image/jpeg" />
+        <media:content url="https://d1krbhyfejrtpz.cloudfront.net/blog/wp-content/uploads/2024/10/07183803/Generative-AI-in-Telecom.jpg" type="image/jpeg" medium="image" />
+         <media:thumbnail url="https://d1krbhyfejrtpz.cloudfront.net/blog/wp-content/uploads/2024/10/07183803/Generative-AI-in-Telecom.jpg" />
         <pubDate>Wed, 01 Oct 2025 00:00:00 GMT</pubDate>
       </item>
 
       <item>
-        <title><![CDATA[12 Top-Rated Generative AI Tools in 2025: Your Expert Guide]]></title>
-        <link>https://bootcamp.cpe.vt.edu/blog/best-generative-ai-tools</link>
-        <guid isPermaLink="true">https://bootcamp.cpe.vt.edu/blog/best-generative-ai-tools#guid</guid>
+        <title><![CDATA[2025 AI Business Predictions - PwC]]></title>
+        <link>https://www.pwc.com/us/en/tech-effect/ai-analytics/ai-predictions.html</link>
+        <guid isPermaLink="true">https://www.pwc.com/us/en/tech-effect/ai-analytics/ai-predictions.html#guid</guid>
         <description><![CDATA[
-      <p><img src="https://vertesiahq.com/hubfs/GenAI-Marketscape-2025-Q1.svg" alt="Article image" width="600" /><br/>
-      These extensive features and capabilities make Jasper one of the best generative AI tools in 2025. Key Features:</p>
-      <p><a href="https://bootcamp.cpe.vt.edu/blog/best-generative-ai-tools" target="_blank">Read full article →</a></p>
+      <p><img src="https://dkpxaouzpedok.cloudfront.net/wp-content/uploads/2024/02/5-Ways-How-Generative-AI-in-Telecom-Industry-Revolutionzed.webp" alt="Article image" width="600" /><br/>
+      Explore PwC&apos;s AI predictions with actionable strategies, industry insights, and trends shaping AI&apos;s role in business transformation for 2025 and beyond.</p>
+      <p><a href="https://www.pwc.com/us/en/tech-effect/ai-analytics/ai-predictions.html" target="_blank">Read full article →</a></p>
     ]]></description>
-        <enclosure url="https://vertesiahq.com/hubfs/GenAI-Marketscape-2025-Q1.svg" type="image/jpeg" />
-        <media:content url="https://vertesiahq.com/hubfs/GenAI-Marketscape-2025-Q1.svg" type="image/jpeg" medium="image" />
-         <media:thumbnail url="https://vertesiahq.com/hubfs/GenAI-Marketscape-2025-Q1.svg" />
-        <pubDate>Wed, 25 Jun 2025 00:00:00 GMT</pubDate>
+        <enclosure url="https://dkpxaouzpedok.cloudfront.net/wp-content/uploads/2024/02/5-Ways-How-Generative-AI-in-Telecom-Industry-Revolutionzed.webp" type="image/jpeg" />
+        <media:content url="https://dkpxaouzpedok.cloudfront.net/wp-content/uploads/2024/02/5-Ways-How-Generative-AI-in-Telecom-Industry-Revolutionzed.webp" type="image/jpeg" medium="image" />
+         <media:thumbnail url="https://dkpxaouzpedok.cloudfront.net/wp-content/uploads/2024/02/5-Ways-How-Generative-AI-in-Telecom-Industry-Revolutionzed.webp" />
+        <pubDate>Tue, 03 Dec 2024 00:00:00 GMT</pubDate>
       </item>
 
       <item>
-        <title><![CDATA[12 Top-Rated Generative AI Tools in 2025: Your Expert Guide]]></title>
-        <link>https://bootcamp.colostate.edu/blog/best-generative-ai-tools</link>
-        <guid isPermaLink="true">https://bootcamp.colostate.edu/blog/best-generative-ai-tools#guid</guid>
+        <title><![CDATA[Tech, Media & Telecom 2025 | Morgan Stanley]]></title>
+        <link>https://www.morganstanley.com/Themes/tech-media-telecom-trends-insights-outlook</link>
+        <guid isPermaLink="true">https://www.morganstanley.com/Themes/tech-media-telecom-trends-insights-outlook#guid</guid>
         <description><![CDATA[
-      <p><img src="https://intellipaat.com/blog/wp-content/uploads/2025/01/2-4.jpg" alt="Article image" width="600" /><br/>
-      Generative AI tools create new data, not just analyze existing information. Examples include Jasper for content, Midjourney for images, and ...</p>
-      <p><a href="https://bootcamp.colostate.edu/blog/best-generative-ai-tools" target="_blank">Read full article →</a></p>
+      <p><img src="https://binmile.com/wp-content/uploads/2024/02/Impact-of-Generative-AI-on-Telecom.webp" alt="Article image" width="600" /><br/>
+      Discover the latest trends in generative AI and other themes shaping technology, media and telecom from this year&apos;s TMT conference in San Francisco.</p>
+      <p><a href="https://www.morganstanley.com/Themes/tech-media-telecom-trends-insights-outlook" target="_blank">Read full article →</a></p>
     ]]></description>
-        <enclosure url="https://intellipaat.com/blog/wp-content/uploads/2025/01/2-4.jpg" type="image/jpeg" />
-        <media:content url="https://intellipaat.com/blog/wp-content/uploads/2025/01/2-4.jpg" type="image/jpeg" medium="image" />
-         <media:thumbnail url="https://intellipaat.com/blog/wp-content/uploads/2025/01/2-4.jpg" />
-        <pubDate>Wed, 25 Jun 2025 00:00:00 GMT</pubDate>
+        <enclosure url="https://binmile.com/wp-content/uploads/2024/02/Impact-of-Generative-AI-on-Telecom.webp" type="image/jpeg" />
+        <media:content url="https://binmile.com/wp-content/uploads/2024/02/Impact-of-Generative-AI-on-Telecom.webp" type="image/jpeg" medium="image" />
+         <media:thumbnail url="https://binmile.com/wp-content/uploads/2024/02/Impact-of-Generative-AI-on-Telecom.webp" />
+        <pubDate>Fri, 11 Apr 2025 00:00:00 GMT</pubDate>
       </item>
 
       <item>
-        <title><![CDATA[The Latest AI News and AI Breakthroughs that Matter Most: 2025]]></title>
-        <link>https://www.crescendo.ai/news/latest-ai-news-and-updates</link>
-        <guid isPermaLink="true">https://www.crescendo.ai/news/latest-ai-news-and-updates#guid</guid>
-        <description><![CDATA[
-      <p><img src="https://binmile-media.s3.ap-south-1.amazonaws.com/wp-content/uploads/2024/09/Top-Generative-AI-Tools.webp" alt="Article image" width="600" /><br/>
-      Amazon CEO Says AI Will Lead to Fewer Corporate Jobs. Date: June 20, 2025. Summary: Amazon CEO Andy Jassy announced that generative AI tools will reduce ...</p>
-      <p><a href="https://www.crescendo.ai/news/latest-ai-news-and-updates" target="_blank">Read full article →</a></p>
-    ]]></description>
-        <enclosure url="https://binmile-media.s3.ap-south-1.amazonaws.com/wp-content/uploads/2024/09/Top-Generative-AI-Tools.webp" type="image/jpeg" />
-        <media:content url="https://binmile-media.s3.ap-south-1.amazonaws.com/wp-content/uploads/2024/09/Top-Generative-AI-Tools.webp" type="image/jpeg" medium="image" />
-         <media:thumbnail url="https://binmile-media.s3.ap-south-1.amazonaws.com/wp-content/uploads/2024/09/Top-Generative-AI-Tools.webp" />
-        <pubDate>Mon, 06 Oct 2025 00:00:00 GMT</pubDate>
-      </item>
-
-      <item>
-        <title><![CDATA[Generative AI]]></title>
-        <link>https://generativeai.pub</link>
-        <guid isPermaLink="true">https://generativeai.pub#guid</guid>
+        <title><![CDATA[TMT Predictions 2025 | Deloitte Insights]]></title>
+        <link>https://www.deloitte.com/us/en/insights/industry/technology/technology-media-and-telecom-predictions.html</link>
+        <guid isPermaLink="true">https://www.deloitte.com/us/en/insights/industry/technology/technology-media-and-telecom-predictions.html#guid</guid>
         <description><![CDATA[
       <p><img src="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" alt="Article image" width="600" /><br/>
-      OpenAI&apos;s Sora 2 Is Here · Google Releases Nano-Banana — A New Image Editing Model · Here&apos;s How I Use Kombai To Build Frontend Fast · AI — The Hype of All Hypes?</p>
-      <p><a href="https://generativeai.pub" target="_blank">Read full article →</a></p>
+      Generative AI. Gen AI Power Consumption. As generative AI asks for more power, data centers seek more reliable, cleaner energy solutions.</p>
+      <p><a href="https://www.deloitte.com/us/en/insights/industry/technology/technology-media-and-telecom-predictions.html" target="_blank">Read full article →</a></p>
     ]]></description>
         <enclosure url="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" type="image/jpeg" />
         <media:content url="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" type="image/jpeg" medium="image" />
          <media:thumbnail url="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" />
-        <pubDate>Mon, 14 Apr 2025 00:00:00 GMT</pubDate>
+        <pubDate>Tue, 19 Nov 2024 00:00:00 GMT</pubDate>
       </item>
 
       <item>
-        <title><![CDATA[Relativity Fest 2025: Relativity Announces Generative AI Solutions ...]]></title>
-        <link>https://www.prnewswire.com/news-releases/relativity-fest-2025-relativity-announces-generative-ai-solutions-for-legal-review-to-be-standard-in-cloud-offering-302578299.html</link>
-        <guid isPermaLink="true">https://www.prnewswire.com/news-releases/relativity-fest-2025-relativity-announces-generative-ai-solutions-for-legal-review-to-be-standard-in-cloud-offering-302578299.html#guid</guid>
+        <title><![CDATA[Enterprises flocking to hyperscaler shops for third-party enterprise AI ...]]></title>
+        <link>https://www.rcrwireless.com/20251006/enterprise/enterprise-ai-hyperscaler</link>
+        <guid isPermaLink="true">https://www.rcrwireless.com/20251006/enterprise/enterprise-ai-hyperscaler#guid</guid>
         <description><![CDATA[
       <p><img src="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" alt="Article image" width="600" /><br/>
-      News Summary: · Transforming how the industry performs review with seamless access to generative AI · Empowering litigators with aiR for Case ...</p>
-      <p><a href="https://www.prnewswire.com/news-releases/relativity-fest-2025-relativity-announces-generative-ai-solutions-for-legal-review-to-be-standard-in-cloud-offering-302578299.html" target="_blank">Read full article →</a></p>
+      Enterprise software sales through hyperscaler cloud marketplaces will soar from $30 billion in 2024 to $163 billion by 2030 – driven by ...</p>
+      <p><a href="https://www.rcrwireless.com/20251006/enterprise/enterprise-ai-hyperscaler" target="_blank">Read full article →</a></p>
+    ]]></description>
+        <enclosure url="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" type="image/jpeg" />
+        <media:content url="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" type="image/jpeg" medium="image" />
+         <media:thumbnail url="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" />
+        <pubDate>Mon, 06 Oct 2025 00:00:00 GMT</pubDate>
+      </item>
+
+      <item>
+        <title><![CDATA[The Telco Opportunity in Enterprise AI Infrastructure - GenAI Today]]></title>
+        <link>https://www.genaitoday.ai/topics/genai-today/articles/462823-telco-opportunity-enterprise-ai-infrastructure.htm</link>
+        <guid isPermaLink="true">https://www.genaitoday.ai/topics/genai-today/articles/462823-telco-opportunity-enterprise-ai-infrastructure.htm#guid</guid>
+        <description><![CDATA[
+      <p><img src="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" alt="Article image" width="600" /><br/>
+      Telcos can lead enterprise AI with GPU-as-a-Service, edge computing, and AI-ready infrastructure-modernizing cores and monetizing data ...</p>
+      <p><a href="https://www.genaitoday.ai/topics/genai-today/articles/462823-telco-opportunity-enterprise-ai-infrastructure.htm" target="_blank">Read full article →</a></p>
+    ]]></description>
+        <enclosure url="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" type="image/jpeg" />
+        <media:content url="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" type="image/jpeg" medium="image" />
+         <media:thumbnail url="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" />
+        <pubDate>Tue, 07 Oct 2025 00:00:00 GMT</pubDate>
+      </item>
+
+      <item>
+        <title><![CDATA[AI Accelerator Chip Market to Reach US$ 283.13 Billion by 2032 at ...]]></title>
+        <link>https://www.prnewswire.com/news-releases/ai-accelerator-chip-market-to-reach-us-283-13-billion-by-2032-at-33-19-cagr-as-generative-ai-nlp-and-autonomous-systems-drive-demand--datam-intelligence-302578495.html</link>
+        <guid isPermaLink="true">https://www.prnewswire.com/news-releases/ai-accelerator-chip-market-to-reach-us-283-13-billion-by-2032-at-33-19-cagr-as-generative-ai-nlp-and-autonomous-systems-drive-demand--datam-intelligence-302578495.html#guid</guid>
+        <description><![CDATA[
+      <p><img src="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" alt="Article image" width="600" /><br/>
+      AUSTIN, Texas and TOKYO, Oct. 8, 2025 ... Surging demand for Generative AI tools such as ChatGPT, Gemini, and custom enterprise LLMs.</p>
+      <p><a href="https://www.prnewswire.com/news-releases/ai-accelerator-chip-market-to-reach-us-283-13-billion-by-2032-at-33-19-cagr-as-generative-ai-nlp-and-autonomous-systems-drive-demand--datam-intelligence-302578495.html" target="_blank">Read full article →</a></p>
     ]]></description>
         <enclosure url="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" type="image/jpeg" />
         <media:content url="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" type="image/jpeg" medium="image" />
          <media:thumbnail url="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" />
         <pubDate>Wed, 08 Oct 2025 00:00:00 GMT</pubDate>
-      </item>
-
-      <item>
-        <title><![CDATA[AI News | Latest AI News, Analysis & Events]]></title>
-        <link>https://www.artificialintelligence-news.com</link>
-        <guid isPermaLink="true">https://www.artificialintelligence-news.com#guid</guid>
-        <description><![CDATA[
-      <p><img src="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" alt="Article image" width="600" /><br/>
-      AI News reports on the latest artificial intelligence news and insights. Explore industry trends from the frontline of AI.</p>
-      <p><a href="https://www.artificialintelligence-news.com" target="_blank">Read full article →</a></p>
-    ]]></description>
-        <enclosure url="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" type="image/jpeg" />
-        <media:content url="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" type="image/jpeg" medium="image" />
-         <media:thumbnail url="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" />
-        <pubDate>Tue, 07 Oct 2025 00:00:00 GMT</pubDate>
-      </item>
-
-      <item>
-        <title><![CDATA[Generative AI and news report 2025: How people think about AI’s role in journalism and society]]></title>
-        <link>https://reutersinstitute.politics.ox.ac.uk/generative-ai-and-news-report-2025-how-people-think-about-ais-role-journalism-and-society</link>
-        <guid isPermaLink="true">https://reutersinstitute.politics.ox.ac.uk/generative-ai-and-news-report-2025-how-people-think-about-ais-role-journalism-and-society#guid</guid>
-        <description><![CDATA[
-      <p><img src="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" alt="Article image" width="600" /><br/>
-      </p>
-      <p><a href="https://reutersinstitute.politics.ox.ac.uk/generative-ai-and-news-report-2025-how-people-think-about-ais-role-journalism-and-society" target="_blank">Read full article →</a></p>
-    ]]></description>
-        <enclosure url="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" type="image/jpeg" />
-        <media:content url="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" type="image/jpeg" medium="image" />
-         <media:thumbnail url="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" />
-        <pubDate>Tue, 07 Oct 2025 00:00:00 GMT</pubDate>
-      </item>
-
-      <item>
-        <title><![CDATA[New Research: AI Is Already the #1 Data Exfiltration Channel in the Enterprise]]></title>
-        <link>https://thehackernews.com/2025/10/new-research-ai-is-already-1-data.html</link>
-        <guid isPermaLink="true">https://thehackernews.com/2025/10/new-research-ai-is-already-1-data.html#guid</guid>
-        <description><![CDATA[
-      <p><img src="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" alt="Article image" width="600" /><br/>
-      LayerX finds AI tools now drive most enterprise data leaks, with 77% of sensitive data pasted via personal accounts.</p>
-      <p><a href="https://thehackernews.com/2025/10/new-research-ai-is-already-1-data.html" target="_blank">Read full article →</a></p>
-    ]]></description>
-        <enclosure url="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" type="image/jpeg" />
-        <media:content url="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" type="image/jpeg" medium="image" />
-         <media:thumbnail url="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" />
-        <pubDate>Tue, 07 Oct 2025 00:00:00 GMT</pubDate>
-      </item>
-
-      <item>
-        <title><![CDATA[New tool makes generative AI models more likely to create breakthrough materials]]></title>
-        <link>https://news.mit.edu/2025/new-tool-makes-generative-ai-models-likely-create-breakthrough-materials-0922</link>
-        <guid isPermaLink="true">https://news.mit.edu/2025/new-tool-makes-generative-ai-models-likely-create-breakthrough-materials-0922#guid</guid>
-        <description><![CDATA[
-      <p><img src="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" alt="Article image" width="600" /><br/>
-      A new tool called SCIGEN allows researchers to implement design rules that AI models must follow when generating new materials.</p>
-      <p><a href="https://news.mit.edu/2025/new-tool-makes-generative-ai-models-likely-create-breakthrough-materials-0922" target="_blank">Read full article →</a></p>
-    ]]></description>
-        <enclosure url="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" type="image/jpeg" />
-        <media:content url="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" type="image/jpeg" medium="image" />
-         <media:thumbnail url="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" />
-        <pubDate>Mon, 22 Sep 2025 00:00:00 GMT</pubDate>
-      </item>
-
-      <item>
-        <title><![CDATA[The 2025 AI Index Report | Stanford HAI]]></title>
-        <link>https://hai.stanford.edu/ai-index/2025-ai-index-report</link>
-        <guid isPermaLink="true">https://hai.stanford.edu/ai-index/2025-ai-index-report#guid</guid>
-        <description><![CDATA[
-      <p><img src="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" alt="Article image" width="600" /><br/>
-      Generative AI saw particularly strong momentum, attracting $33.9 billion globally in private investment—an 18.7% increase from 2023.</p>
-      <p><a href="https://hai.stanford.edu/ai-index/2025-ai-index-report" target="_blank">Read full article →</a></p>
-    ]]></description>
-        <enclosure url="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" type="image/jpeg" />
-        <media:content url="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" type="image/jpeg" medium="image" />
-         <media:thumbnail url="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" />
-        <pubDate>Tue, 10 Sep 2024 00:00:00 GMT</pubDate>
       </item>
   </channel>
 </rss>
