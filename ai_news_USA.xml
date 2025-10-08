@@ -8,82 +8,127 @@
     <atom:link href="https://ssikila.github.io/newsRSS_to_startme_page/rss.xml" rel="self" type="application/rss+xml" />
     <description><![CDATA[Daily AI & Telecom insights curated by n8n + Perplexity]]></description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 08 Oct 2025 17:14:15 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 Oct 2025 17:21:38 GMT</lastBuildDate>
     <generator>n8n RSS Generator</generator>
     
       <item>
-        <title><![CDATA[The Latest AI News and AI Breakthroughs that Matter Most: 2025]]></title>
-        <link>https://www.crescendo.ai/news/latest-ai-news-and-updates</link>
-        <guid isPermaLink="true">https://www.crescendo.ai/news/latest-ai-news-and-updates#guid</guid>
+        <title><![CDATA[White House Unveils America's AI Action Plan]]></title>
+        <link>https://www.whitehouse.gov/articles/2025/07/white-house-unveils-americas-ai-action-plan/</link>
+        <guid isPermaLink="true">https://www.whitehouse.gov/articles/2025/07/white-house-unveils-americas-ai-action-plan/#guid</guid>
         <description><![CDATA[
-      <p><img src="https://cdn.mos.cms.futurecdn.net/rVdu8MPJKTiwZBPkhREhVe.jpg" alt="Article image" width="600" /><br/>
-      HHS Doubles Childhood Cancer Research Funding to Accelerate AI Projects. Date: October 2, 2025. Summary: The U.S. Department of Health and Human Services (HHS) ...</p>
-      <p><a href="https://www.crescendo.ai/news/latest-ai-news-and-updates" target="_blank">Read full article →</a></p>
+      <p><img src="https://cdn.prod.website-files.com/6442419dcf656a81da76b503/68833988c229d8db00050a74_AI%20Plan.webp" alt="Article image" width="600" /><br/>
+      The White House today released “Winning the AI Race: America&apos;s AI Action Plan”, in accordance with President Trump&apos;s January executive order ...</p>
+      <p><a href="https://www.whitehouse.gov/articles/2025/07/white-house-unveils-americas-ai-action-plan/" target="_blank">Read full article →</a></p>
     ]]></description>
-        <enclosure url="https://cdn.mos.cms.futurecdn.net/rVdu8MPJKTiwZBPkhREhVe.jpg" type="image/jpeg" />
-        <media:content url="https://cdn.mos.cms.futurecdn.net/rVdu8MPJKTiwZBPkhREhVe.jpg" type="image/jpeg" medium="image" />
-         <media:thumbnail url="https://cdn.mos.cms.futurecdn.net/rVdu8MPJKTiwZBPkhREhVe.jpg" />
+        <enclosure url="https://cdn.prod.website-files.com/6442419dcf656a81da76b503/68833988c229d8db00050a74_AI%20Plan.webp" type="image/jpeg" />
+        <media:content url="https://cdn.prod.website-files.com/6442419dcf656a81da76b503/68833988c229d8db00050a74_AI%20Plan.webp" type="image/jpeg" medium="image" />
+         <media:thumbnail url="https://cdn.prod.website-files.com/6442419dcf656a81da76b503/68833988c229d8db00050a74_AI%20Plan.webp" />
+        <pubDate>Wed, 23 Jul 2025 00:00:00 GMT</pubDate>
+      </item>
+
+      <item>
+        <title><![CDATA[American Views on AI, National Security in 5 Charts - Gallup News]]></title>
+        <link>https://news.gallup.com/poll/695297/american-views-national-security-charts.aspx</link>
+        <guid isPermaLink="true">https://news.gallup.com/poll/695297/american-views-national-security-charts.aspx#guid</guid>
+        <description><![CDATA[
+      <p><img src="https://digitalrosh.com/wp-content/uploads/2025/07/image.png" alt="Article image" width="600" /><br/>
+      Americans expect AI-based attacks on the U.S., but support for developing AI-enabled weapons for conflicts is more limited and conditional.</p>
+      <p><a href="https://news.gallup.com/poll/695297/american-views-national-security-charts.aspx" target="_blank">Read full article →</a></p>
+    ]]></description>
+        <enclosure url="https://digitalrosh.com/wp-content/uploads/2025/07/image.png" type="image/jpeg" />
+        <media:content url="https://digitalrosh.com/wp-content/uploads/2025/07/image.png" type="image/jpeg" medium="image" />
+         <media:thumbnail url="https://digitalrosh.com/wp-content/uploads/2025/07/image.png" />
         <pubDate>Mon, 06 Oct 2025 00:00:00 GMT</pubDate>
       </item>
 
       <item>
-        <title><![CDATA[AI Magazine: Home of AI and Artificial Intelligence News]]></title>
-        <link>https://aimagazine.com</link>
-        <guid isPermaLink="true">https://aimagazine.com#guid</guid>
+        <title><![CDATA[Can AI deliver on its massive investments? Plus, the race ... - YouTube]]></title>
+        <link>https://www.youtube.com/watch?v=OTrFlREXNUk</link>
+        <guid isPermaLink="true">https://www.youtube.com/watch?v=OTrFlREXNUk#guid</guid>
         <description><![CDATA[
-      <p><img src="https://njbiz.com/files/2024/06/Murphy_CoreWeave.jpg" alt="Article image" width="600" /><br/>
-      The No.1 Magazine, Website, Newsletter &amp; Webinar service covering AI, Machine Learning, AR &amp; VR, Data, Technology and AI Applications.</p>
-      <p><a href="https://aimagazine.com" target="_blank">Read full article →</a></p>
+      <p><img src="https://theaiinsider.tech/wp-content/uploads/2025/07/Winning-The-Race-1.png" alt="Article image" width="600" /><br/>
+      Asking for a Trend anchor Josh Lipton breaks down the latest market moves for September 26, 2025. Everyone wants AI, but can they afford it?</p>
+      <p><a href="https://www.youtube.com/watch?v=OTrFlREXNUk" target="_blank">Read full article →</a></p>
     ]]></description>
-        <enclosure url="https://njbiz.com/files/2024/06/Murphy_CoreWeave.jpg" type="image/jpeg" />
-        <media:content url="https://njbiz.com/files/2024/06/Murphy_CoreWeave.jpg" type="image/jpeg" medium="image" />
-         <media:thumbnail url="https://njbiz.com/files/2024/06/Murphy_CoreWeave.jpg" />
-        <pubDate>Wed, 08 Jan 2025 00:00:00 GMT</pubDate>
+        <enclosure url="https://theaiinsider.tech/wp-content/uploads/2025/07/Winning-The-Race-1.png" type="image/jpeg" />
+        <media:content url="https://theaiinsider.tech/wp-content/uploads/2025/07/Winning-The-Race-1.png" type="image/jpeg" medium="image" />
+         <media:thumbnail url="https://theaiinsider.tech/wp-content/uploads/2025/07/Winning-The-Race-1.png" />
+        <pubDate>Fri, 26 Sep 2025 00:00:00 GMT</pubDate>
       </item>
 
       <item>
-        <title><![CDATA[The AI "actress" drawing Hollywood backlash | October 6, 2025]]></title>
-        <link>https://www.youtube.com/watch?v=wI_CPLYTlfU</link>
-        <guid isPermaLink="true">https://www.youtube.com/watch?v=wI_CPLYTlfU#guid</guid>
+        <title><![CDATA[5 Finnish AI companies solving real-world problems]]></title>
+        <link>https://www.goodnewsfinland.com/en/articles/five-from-finland/2025/finland-ai-solutions/</link>
+        <guid isPermaLink="true">https://www.goodnewsfinland.com/en/articles/five-from-finland/2025/finland-ai-solutions/#guid</guid>
         <description><![CDATA[
-      <p><img src="https://www.crn.com/news/data-center/2025/media_17c46d488047528b900fc85cf716213bb083ac53b.png?width=750&amp;format=png&amp;optimize=medium" alt="Article image" width="600" /><br/>
-      Today on CNN10: We learn about the AI-generated &quot;actress&quot; that is drawing intense backlash from human actors in Hollywood as the industry ...</p>
-      <p><a href="https://www.youtube.com/watch?v=wI_CPLYTlfU" target="_blank">Read full article →</a></p>
+      <p><img src="https://images.bannerbear.com/direct/y0aJ23zRDdqMxX4OGl/requests/000/098/855/354/nGPeXKvLJY745kV4zd81p93OM/980b1f13478f3c15efce72fdaaa664fe6887f6f4.png" alt="Article image" width="600" /><br/>
+      Discover how Finnish firms like Capalo, Nvelop, Revieve, Aiforia and Relex are applying AI to energy, healthcare, retail and supply chains ...</p>
+      <p><a href="https://www.goodnewsfinland.com/en/articles/five-from-finland/2025/finland-ai-solutions/" target="_blank">Read full article →</a></p>
     ]]></description>
-        <enclosure url="https://www.crn.com/news/data-center/2025/media_17c46d488047528b900fc85cf716213bb083ac53b.png?width=750&amp;format=png&amp;optimize=medium" type="image/jpeg" />
-        <media:content url="https://www.crn.com/news/data-center/2025/media_17c46d488047528b900fc85cf716213bb083ac53b.png?width=750&amp;format=png&amp;optimize=medium" type="image/jpeg" medium="image" />
-         <media:thumbnail url="https://www.crn.com/news/data-center/2025/media_17c46d488047528b900fc85cf716213bb083ac53b.png?width=750&amp;format=png&amp;optimize=medium" />
+        <enclosure url="https://images.bannerbear.com/direct/y0aJ23zRDdqMxX4OGl/requests/000/098/855/354/nGPeXKvLJY745kV4zd81p93OM/980b1f13478f3c15efce72fdaaa664fe6887f6f4.png" type="image/jpeg" />
+        <media:content url="https://images.bannerbear.com/direct/y0aJ23zRDdqMxX4OGl/requests/000/098/855/354/nGPeXKvLJY745kV4zd81p93OM/980b1f13478f3c15efce72fdaaa664fe6887f6f4.png" type="image/jpeg" medium="image" />
+         <media:thumbnail url="https://images.bannerbear.com/direct/y0aJ23zRDdqMxX4OGl/requests/000/098/855/354/nGPeXKvLJY745kV4zd81p93OM/980b1f13478f3c15efce72fdaaa664fe6887f6f4.png" />
+        <pubDate>Wed, 17 Sep 2025 00:00:00 GMT</pubDate>
+      </item>
+
+      <item>
+        <title><![CDATA[AI Rally Faces Reality Check | Open Interest 9/7/2025 - YouTube]]></title>
+        <link>https://www.youtube.com/watch?v=OIxp8JGHuJo</link>
+        <guid isPermaLink="true">https://www.youtube.com/watch?v=OIxp8JGHuJo#guid</guid>
+        <description><![CDATA[
+      <p><img src="https://cdn.prod.website-files.com/6698b3a9bec61abf72a8f268/688857346b2c5985dd8b38a9_1*13LNaYscp7IsDsjVS4H5vQ.png" alt="Article image" width="600" /><br/>
+      Get a jump start on the US trading day with Matt Miller and Dani Burger on &quot;Bloomberg Open Interest.&quot; The AI-fueled rally may be running on ...</p>
+      <p><a href="https://www.youtube.com/watch?v=OIxp8JGHuJo" target="_blank">Read full article →</a></p>
+    ]]></description>
+        <enclosure url="https://cdn.prod.website-files.com/6698b3a9bec61abf72a8f268/688857346b2c5985dd8b38a9_1*13LNaYscp7IsDsjVS4H5vQ.png" type="image/jpeg" />
+        <media:content url="https://cdn.prod.website-files.com/6698b3a9bec61abf72a8f268/688857346b2c5985dd8b38a9_1*13LNaYscp7IsDsjVS4H5vQ.png" type="image/jpeg" medium="image" />
+         <media:thumbnail url="https://cdn.prod.website-files.com/6698b3a9bec61abf72a8f268/688857346b2c5985dd8b38a9_1*13LNaYscp7IsDsjVS4H5vQ.png" />
+        <pubDate>Tue, 07 Oct 2025 00:00:00 GMT</pubDate>
+      </item>
+
+      <item>
+        <title><![CDATA[AI News & Artificial Intelligence | TechCrunch]]></title>
+        <link>https://techcrunch.com/category/artificial-intelligence/</link>
+        <guid isPermaLink="true">https://techcrunch.com/category/artificial-intelligence/#guid</guid>
+        <description><![CDATA[
+      <p><img src="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" alt="Article image" width="600" /><br/>
+      News coverage on artificial intelligence and machine learning tech, the companies building them, and the ethical issues AI raises today.</p>
+      <p><a href="https://techcrunch.com/category/artificial-intelligence/" target="_blank">Read full article →</a></p>
+    ]]></description>
+        <enclosure url="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" type="image/jpeg" />
+        <media:content url="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" type="image/jpeg" medium="image" />
+         <media:thumbnail url="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" />
+        <pubDate>Wed, 08 Oct 2025 00:00:00 GMT</pubDate>
+      </item>
+
+      <item>
+        <title><![CDATA[What Is Happening With AI In 2025? (Meta Vibes) - YouTube]]></title>
+        <link>https://www.youtube.com/watch?v=hoKAVz2m1f8</link>
+        <guid isPermaLink="true">https://www.youtube.com/watch?v=hoKAVz2m1f8#guid</guid>
+        <description><![CDATA[
+      <p><img src="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" alt="Article image" width="600" /><br/>
+      Why is AI slop becoming mainstream? Let&apos;s discuss the newest moves by Meta and how Facebook feeds are now flooded with AI-generated media, ...</p>
+      <p><a href="https://www.youtube.com/watch?v=hoKAVz2m1f8" target="_blank">Read full article →</a></p>
+    ]]></description>
+        <enclosure url="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" type="image/jpeg" />
+        <media:content url="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" type="image/jpeg" medium="image" />
+         <media:thumbnail url="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" />
         <pubDate>Sun, 05 Oct 2025 00:00:00 GMT</pubDate>
       </item>
 
       <item>
-        <title><![CDATA[AI News | Latest AI News, Analysis & Events]]></title>
-        <link>https://www.artificialintelligence-news.com</link>
-        <guid isPermaLink="true">https://www.artificialintelligence-news.com#guid</guid>
+        <title><![CDATA[Finland's next AI wave? 19 startups join Journeys: AI & Deep Tech]]></title>
+        <link>https://www.youtube.com/watch?v=as0JzU3OmL8</link>
+        <guid isPermaLink="true">https://www.youtube.com/watch?v=as0JzU3OmL8#guid</guid>
         <description><![CDATA[
-      <p><img src="https://www.enr.com/ext/resources/2025/07/CoreWeave-data-center-rendering.png?height=418&amp;t=1753925621&amp;width=800" alt="Article image" width="600" /><br/>
-      US and Japan announce sweeping AI and tech collaboration · Artificial Intelligence. April 11, 2024 ; UK and Canada sign AI compute agreement · Artificial ...</p>
-      <p><a href="https://www.artificialintelligence-news.com" target="_blank">Read full article →</a></p>
+      <p><img src="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" alt="Article image" width="600" /><br/>
+      Finland just put deep tech on a deadline. On Monday, August 25, Helsinki Incubators launched Journeys, a 16-week program turning early ideas ...</p>
+      <p><a href="https://www.youtube.com/watch?v=as0JzU3OmL8" target="_blank">Read full article →</a></p>
     ]]></description>
-        <enclosure url="https://www.enr.com/ext/resources/2025/07/CoreWeave-data-center-rendering.png?height=418&amp;t=1753925621&amp;width=800" type="image/jpeg" />
-        <media:content url="https://www.enr.com/ext/resources/2025/07/CoreWeave-data-center-rendering.png?height=418&amp;t=1753925621&amp;width=800" type="image/jpeg" medium="image" />
-         <media:thumbnail url="https://www.enr.com/ext/resources/2025/07/CoreWeave-data-center-rendering.png?height=418&amp;t=1753925621&amp;width=800" />
-        <pubDate>Tue, 07 Oct 2025 00:00:00 GMT</pubDate>
-      </item>
-
-      <item>
-        <title><![CDATA[Dow, S&P Slide on AI Worries as Shutdown Looms - YouTube]]></title>
-        <link>https://www.youtube.com/watch?v=QCEV7EzoD5A</link>
-        <guid isPermaLink="true">https://www.youtube.com/watch?v=QCEV7EzoD5A#guid</guid>
-        <description><![CDATA[
-      <p><img src="https://ep-turnerconstruction-prod-asdcetgubtducba3.z01.azurefd.net/uploads/Picture1.jpg?v=63dea" alt="Article image" width="600" /><br/>
-      Dow, S&amp;P Slide on AI Worries as Shutdown Looms | The Close 10/7/2025 ... ABC World News Tonight with David Muir Full Broadcast - Oct. 7, 2025.</p>
-      <p><a href="https://www.youtube.com/watch?v=QCEV7EzoD5A" target="_blank">Read full article →</a></p>
-    ]]></description>
-        <enclosure url="https://ep-turnerconstruction-prod-asdcetgubtducba3.z01.azurefd.net/uploads/Picture1.jpg?v=63dea" type="image/jpeg" />
-        <media:content url="https://ep-turnerconstruction-prod-asdcetgubtducba3.z01.azurefd.net/uploads/Picture1.jpg?v=63dea" type="image/jpeg" medium="image" />
-         <media:thumbnail url="https://ep-turnerconstruction-prod-asdcetgubtducba3.z01.azurefd.net/uploads/Picture1.jpg?v=63dea" />
-        <pubDate>Tue, 07 Oct 2025 00:00:00 GMT</pubDate>
+        <enclosure url="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" type="image/jpeg" />
+        <media:content url="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" type="image/jpeg" medium="image" />
+         <media:thumbnail url="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" />
+        <pubDate>Wed, 27 Aug 2025 00:00:00 GMT</pubDate>
       </item>
 
       <item>
@@ -102,18 +147,63 @@
       </item>
 
       <item>
-        <title><![CDATA[AI News & Artificial Intelligence | TechCrunch]]></title>
-        <link>https://techcrunch.com/category/artificial-intelligence/</link>
-        <guid isPermaLink="true">https://techcrunch.com/category/artificial-intelligence/#guid</guid>
+        <title><![CDATA[Artificial intelligence | News about AI | University of Helsinki]]></title>
+        <link>https://www.helsinki.fi/en/news/artificial-intelligence</link>
+        <guid isPermaLink="true">https://www.helsinki.fi/en/news/artificial-intelligence#guid</guid>
         <description><![CDATA[
       <p><img src="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" alt="Article image" width="600" /><br/>
-      News coverage on artificial intelligence and machine learning tech, the companies building them, and the ethical issues AI raises today.</p>
-      <p><a href="https://techcrunch.com/category/artificial-intelligence/" target="_blank">Read full article →</a></p>
+      Artificial intelligence is changing the world and creating new prospects for our society. Read our news and articles about AI and the ethics of artificial ...</p>
+      <p><a href="https://www.helsinki.fi/en/news/artificial-intelligence" target="_blank">Read full article →</a></p>
     ]]></description>
         <enclosure url="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" type="image/jpeg" />
         <media:content url="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" type="image/jpeg" medium="image" />
          <media:thumbnail url="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" />
-        <pubDate>Wed, 08 Oct 2025 00:00:00 GMT</pubDate>
+        <pubDate>Thu, 25 Sep 2025 00:00:00 GMT</pubDate>
+      </item>
+
+      <item>
+        <title><![CDATA[Artificial Intelligence 2025 - Trends And Developments - Mondaq]]></title>
+        <link>https://www.mondaq.com/unitedstates/new-technology/1643578/artificial-intelligence-2025-trends-and-developments</link>
+        <guid isPermaLink="true">https://www.mondaq.com/unitedstates/new-technology/1643578/artificial-intelligence-2025-trends-and-developments#guid</guid>
+        <description><![CDATA[
+      <p><img src="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" alt="Article image" width="600" /><br/>
+      The United States is a major player in development of artificial intelligence (AI) globally and has a significant impact on national (and global) conversations ...</p>
+      <p><a href="https://www.mondaq.com/unitedstates/new-technology/1643578/artificial-intelligence-2025-trends-and-developments" target="_blank">Read full article →</a></p>
+    ]]></description>
+        <enclosure url="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" type="image/jpeg" />
+        <media:content url="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" type="image/jpeg" medium="image" />
+         <media:thumbnail url="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" />
+        <pubDate>Thu, 22 May 2025 00:00:00 GMT</pubDate>
+      </item>
+
+      <item>
+        <title><![CDATA[Google Translate]]></title>
+        <link>https://translate.google.com</link>
+        <guid isPermaLink="true">https://translate.google.com#guid</guid>
+        <description><![CDATA[
+      <p><img src="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" alt="Article image" width="600" /><br/>
+      Google&apos;s service, offered free of charge, instantly translates words, phrases, and web pages between English and over 100 other languages.</p>
+      <p><a href="https://translate.google.com" target="_blank">Read full article →</a></p>
+    ]]></description>
+        <enclosure url="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" type="image/jpeg" />
+        <media:content url="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" type="image/jpeg" medium="image" />
+         <media:thumbnail url="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" />
+        <pubDate>Wed, 02 Apr 2025 00:00:00 GMT</pubDate>
+      </item>
+
+      <item>
+        <title><![CDATA[AI Insider: Latest AI Funding News & Industry Insights]]></title>
+        <link>https://theaiinsider.tech</link>
+        <guid isPermaLink="true">https://theaiinsider.tech#guid</guid>
+        <description><![CDATA[
+      <p><img src="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" alt="Article image" width="600" /><br/>
+      AI Insider offers in-depth articles, exclusive interviews, and up-to-date funding news to keep you at the forefront of the AI revolution.</p>
+      <p><a href="https://theaiinsider.tech" target="_blank">Read full article →</a></p>
+    ]]></description>
+        <enclosure url="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" type="image/jpeg" />
+        <media:content url="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" type="image/jpeg" medium="image" />
+         <media:thumbnail url="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" />
+        <pubDate>Tue, 17 Jun 2025 00:00:00 GMT</pubDate>
       </item>
   </channel>
 </rss>
