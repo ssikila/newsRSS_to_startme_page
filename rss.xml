@@ -6,9 +6,35 @@
     <atom:link href="https://ssikila.github.io/newsRSS_to_startme_page/rss.xml" rel="self" type="application/rss+xml" />
     <description><![CDATA[Daily AI & Telecom insights curated by n8n + Perplexity]]></description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 08 Oct 2025 14:55:57 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 Oct 2025 14:58:36 GMT</lastBuildDate>
     <generator>n8n RSS Generator</generator>
     
+    <item>
+      <title><![CDATA[How telecoms can thrive in the age of generative AI]]></title>
+      <link>https://www.weforum.org/stories/2025/02/how-telecoms-can-thrive-in-age-of-generative-ai/</link>
+      <guid isPermaLink="true">https://www.weforum.org/stories/2025/02/how-telecoms-can-thrive-in-age-of-generative-ai/#guid</guid>
+      <description><![CDATA[
+    <p><img src="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" alt="Article image" width="600" /><br/>
+    Telecoms must embrace generative AI to cut costs, boost growth, enhance security and evolve into techcos for automation, AI-driven services ...</p>
+    <p><a href="https://www.weforum.org/stories/2025/02/how-telecoms-can-thrive-in-age-of-generative-ai/" target="_blank">Read full article →</a></p>
+  ]]></description>
+      <enclosure url="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" type="image/jpeg" />
+      <pubDate>Thu, 27 Feb 2025 00:00:00 GMT</pubDate>
+    </item>
+
+    <item>
+      <title><![CDATA[The Latest AI News and AI Breakthroughs that Matter Most: 2025]]></title>
+      <link>https://www.crescendo.ai/news/latest-ai-news-and-updates</link>
+      <guid isPermaLink="true">https://www.crescendo.ai/news/latest-ai-news-and-updates#guid</guid>
+      <description><![CDATA[
+    <p><img src="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" alt="Article image" width="600" /><br/>
+    Recent AI news includes ASML&apos;s investment in Mistral AI, Trump&apos;s AI image, Apple&apos;s lawsuit, and deepfake AI video concerns.</p>
+    <p><a href="https://www.crescendo.ai/news/latest-ai-news-and-updates" target="_blank">Read full article →</a></p>
+  ]]></description>
+      <enclosure url="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" type="image/jpeg" />
+      <pubDate>Mon, 06 Oct 2025 00:00:00 GMT</pubDate>
+    </item>
+
     <item>
       <title><![CDATA[[PDF] State of AI in Telecommunications: 2025 Trends - Congress.gov]]></title>
       <link>https://www.congress.gov/119/meeting/house/118333/witnesses/HHRG-119-IF16-Wstate-VasishtaR-20250604-SD1961949.pdf</link>
@@ -19,72 +45,7 @@
     <p><a href="https://www.congress.gov/119/meeting/house/118333/witnesses/HHRG-119-IF16-Wstate-VasishtaR-20250604-SD1961949.pdf" target="_blank">Read full article →</a></p>
   ]]></description>
       <enclosure url="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" type="image/jpeg" />
-      <pubDate>Wed, 08 Oct 2025 14:55:57 GMT</pubDate>
-    </item>
-
-    <item>
-      <title><![CDATA[AI in Telecommunications - IBM]]></title>
-      <link>https://www.ibm.com/think/topics/ai-in-telecommunications</link>
-      <guid isPermaLink="true">https://www.ibm.com/think/topics/ai-in-telecommunications#guid</guid>
-      <description><![CDATA[
-    <p><img src="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" alt="Article image" width="600" /><br/>
-    A 2024 study by Nvidia1 found nearly 90% of telecom companies use AI, with 48% in the piloting phase and 41% were actively deploying AI. Most telecom service ...</p>
-    <p><a href="https://www.ibm.com/think/topics/ai-in-telecommunications" target="_blank">Read full article →</a></p>
-  ]]></description>
-      <enclosure url="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" type="image/jpeg" />
-      <pubDate>Fri, 18 Oct 2024 00:00:00 GMT</pubDate>
-    </item>
-
-    <item>
-      <title><![CDATA[2025 telecom industry outlook | Deloitte Insights]]></title>
-      <link>https://www.deloitte.com/us/en/insights/industry/technology/technology-media-telecom-outlooks/telecommunications-industry-outlook-2025.html</link>
-      <guid isPermaLink="true">https://www.deloitte.com/us/en/insights/industry/technology/technology-media-telecom-outlooks/telecommunications-industry-outlook-2025.html#guid</guid>
-      <description><![CDATA[
-    <p><img src="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" alt="Article image" width="600" /><br/>
-    In 2025, the most discussed source of growth for many industries is generative AI, and telcos are asking how they can share in that excitement.</p>
-    <p><a href="https://www.deloitte.com/us/en/insights/industry/technology/technology-media-telecom-outlooks/telecommunications-industry-outlook-2025.html" target="_blank">Read full article →</a></p>
-  ]]></description>
-      <enclosure url="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" type="image/jpeg" />
-      <pubDate>Thu, 20 Feb 2025 00:00:00 GMT</pubDate>
-    </item>
-
-    <item>
-      <title><![CDATA[TMT Predictions 2025 | Deloitte Insights]]></title>
-      <link>https://www.deloitte.com/us/en/insights/industry/technology/technology-media-and-telecom-predictions.html</link>
-      <guid isPermaLink="true">https://www.deloitte.com/us/en/insights/industry/technology/technology-media-and-telecom-predictions.html#guid</guid>
-      <description><![CDATA[
-    <p><img src="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" alt="Article image" width="600" /><br/>
-    TMT is on the verge of a significant leap forward, largely powered by rapid gen AI adoption, advancements in telecommunications, new ...</p>
-    <p><a href="https://www.deloitte.com/us/en/insights/industry/technology/technology-media-and-telecom-predictions.html" target="_blank">Read full article →</a></p>
-  ]]></description>
-      <enclosure url="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" type="image/jpeg" />
-      <pubDate>Tue, 19 Nov 2024 00:00:00 GMT</pubDate>
-    </item>
-
-    <item>
-      <title><![CDATA[ZTE cultivates intelligence where networks and AI converge]]></title>
-      <link>https://www.rcrwireless.com/20251007/sponsored/zte-networks-ai</link>
-      <guid isPermaLink="true">https://www.rcrwireless.com/20251007/sponsored/zte-networks-ai#guid</guid>
-      <description><![CDATA[
-    <p><img src="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" alt="Article image" width="600" /><br/>
-    ZTE cultivates intelligence where networks and AI converge. By:ZTE and RCR Wireless News (Sponsored). October 7, 2025. SponsoredTelco AI.</p>
-    <p><a href="https://www.rcrwireless.com/20251007/sponsored/zte-networks-ai" target="_blank">Read full article →</a></p>
-  ]]></description>
-      <enclosure url="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" type="image/jpeg" />
-      <pubDate>Mon, 06 Oct 2025 00:00:00 GMT</pubDate>
-    </item>
-
-    <item>
-      <title><![CDATA[Top 5 Telco Stories This Week That Might Have Been Missed …]]></title>
-      <link>https://telcomagazine.com/news/top-5-telco-stories-this-week-that-might-have-been-missed-02-10</link>
-      <guid isPermaLink="true">https://telcomagazine.com/news/top-5-telco-stories-this-week-that-might-have-been-missed-02-10#guid</guid>
-      <description><![CDATA[
-    <p><img src="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" alt="Article image" width="600" /><br/>
-    With 83% of leaders fearing being left behind, a new report reveals why telcos must act on Gen AI to unlock the productivity gains sought by 63% ...</p>
-    <p><a href="https://telcomagazine.com/news/top-5-telco-stories-this-week-that-might-have-been-missed-02-10" target="_blank">Read full article →</a></p>
-  ]]></description>
-      <enclosure url="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" type="image/jpeg" />
-      <pubDate>Sat, 04 Oct 2025 00:00:00 GMT</pubDate>
+      <pubDate>Wed, 08 Oct 2025 14:58:36 GMT</pubDate>
     </item>
 
     <item>
@@ -101,16 +62,29 @@
     </item>
 
     <item>
-      <title><![CDATA[Generative AI in Telecom: Unlocking the Next Growth Wave]]></title>
-      <link>https://www.frost.com/growth-opportunity-news/techvision/generative-ai-in-telecom-unlocking-the-next-growth-wave-tnv06_tg02_generativeaitelecomdaf8_oct25_cim-sn/</link>
-      <guid isPermaLink="true">https://www.frost.com/growth-opportunity-news/techvision/generative-ai-in-telecom-unlocking-the-next-growth-wave-tnv06_tg02_generativeaitelecomdaf8_oct25_cim-sn/#guid</guid>
+      <title><![CDATA[2025 telecom industry outlook | Deloitte Insights]]></title>
+      <link>https://www.deloitte.com/us/en/insights/industry/technology/technology-media-telecom-outlooks/telecommunications-industry-outlook-2025.html</link>
+      <guid isPermaLink="true">https://www.deloitte.com/us/en/insights/industry/technology/technology-media-telecom-outlooks/telecommunications-industry-outlook-2025.html#guid</guid>
       <description><![CDATA[
     <p><img src="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" alt="Article image" width="600" /><br/>
-    Explore how AI-native platforms, zero trust, and quantum encryption are shaping the future of enterprise security.</p>
-    <p><a href="https://www.frost.com/growth-opportunity-news/techvision/generative-ai-in-telecom-unlocking-the-next-growth-wave-tnv06_tg02_generativeaitelecomdaf8_oct25_cim-sn/" target="_blank">Read full article →</a></p>
+    In 2025, the most discussed source of growth for many industries is generative AI, and telcos are asking how they can share in that excitement.</p>
+    <p><a href="https://www.deloitte.com/us/en/insights/industry/technology/technology-media-telecom-outlooks/telecommunications-industry-outlook-2025.html" target="_blank">Read full article →</a></p>
   ]]></description>
       <enclosure url="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" type="image/jpeg" />
-      <pubDate>Tue, 07 Oct 2025 00:00:00 GMT</pubDate>
+      <pubDate>Thu, 20 Feb 2025 00:00:00 GMT</pubDate>
+    </item>
+
+    <item>
+      <title><![CDATA[Top 5 Telco Stories This Week That Might Have Been Missed …]]></title>
+      <link>https://telcomagazine.com/news/top-5-telco-stories-this-week-that-might-have-been-missed-02-10</link>
+      <guid isPermaLink="true">https://telcomagazine.com/news/top-5-telco-stories-this-week-that-might-have-been-missed-02-10#guid</guid>
+      <description><![CDATA[
+    <p><img src="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" alt="Article image" width="600" /><br/>
+    With 83% of leaders fearing being left behind, a new report reveals why telcos must act on Gen AI to unlock the productivity gains sought by 63% ...</p>
+    <p><a href="https://telcomagazine.com/news/top-5-telco-stories-this-week-that-might-have-been-missed-02-10" target="_blank">Read full article →</a></p>
+  ]]></description>
+      <enclosure url="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" type="image/jpeg" />
+      <pubDate>Sat, 04 Oct 2025 00:00:00 GMT</pubDate>
     </item>
 
     <item>
@@ -127,13 +101,13 @@
     </item>
 
     <item>
-      <title><![CDATA[AI in Marketing Industry Report 2025-2030: Adaptive - GlobeNewswire]]></title>
-      <link>https://www.globenewswire.com/news-release/2025/10/08/3163224/0/en/AI-in-Marketing-Industry-Report-2025-2030-Adaptive-Solutions-are-Transforming-Digital-Touchpoints-and-Scaling-Personalized-Content-Delivery.html</link>
-      <guid isPermaLink="true">https://www.globenewswire.com/news-release/2025/10/08/3163224/0/en/AI-in-Marketing-Industry-Report-2025-2030-Adaptive-Solutions-are-Transforming-Digital-Touchpoints-and-Scaling-Personalized-Content-Delivery.html#guid</guid>
+      <title><![CDATA[Nokia and du Successfully Trial AI-Powered Automation Assistant ...]]></title>
+      <link>https://techafricanews.com/2025/10/08/nokia-and-du-successfully-trial-ai-powered-automation-assistant-for-optical-networks/</link>
+      <guid isPermaLink="true">https://techafricanews.com/2025/10/08/nokia-and-du-successfully-trial-ai-powered-automation-assistant-for-optical-networks/#guid</guid>
       <description><![CDATA[
     <p><img src="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" alt="Article image" width="600" /><br/>
-    As AI evolves, solutions like predictive analytics and chatbots support scalable engagement, especially in sectors like retail and telecom.</p>
-    <p><a href="https://www.globenewswire.com/news-release/2025/10/08/3163224/0/en/AI-in-Marketing-Industry-Report-2025-2030-Adaptive-Solutions-are-Transforming-Digital-Touchpoints-and-Scaling-Personalized-Content-Delivery.html" target="_blank">Read full article →</a></p>
+    “WaveSuite AI demonstrates the real value of automation solutions with both classical and generative AI for optical networking. By simplifying ...</p>
+    <p><a href="https://techafricanews.com/2025/10/08/nokia-and-du-successfully-trial-ai-powered-automation-assistant-for-optical-networks/" target="_blank">Read full article →</a></p>
   ]]></description>
       <enclosure url="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" type="image/jpeg" />
       <pubDate>Wed, 08 Oct 2025 00:00:00 GMT</pubDate>
@@ -153,16 +127,42 @@
     </item>
 
     <item>
-      <title><![CDATA[AI News | Latest AI News, Analysis & Events]]></title>
-      <link>https://www.artificialintelligence-news.com</link>
-      <guid isPermaLink="true">https://www.artificialintelligence-news.com#guid</guid>
+      <title><![CDATA[Generative AI in Telecom: Unlocking the Next Growth Wave]]></title>
+      <link>https://www.frost.com/growth-opportunity-news/techvision/generative-ai-in-telecom-unlocking-the-next-growth-wave-tnv06_tg02_generativeaitelecomdaf8_oct25_cim-sn/</link>
+      <guid isPermaLink="true">https://www.frost.com/growth-opportunity-news/techvision/generative-ai-in-telecom-unlocking-the-next-growth-wave-tnv06_tg02_generativeaitelecomdaf8_oct25_cim-sn/#guid</guid>
       <description><![CDATA[
     <p><img src="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" alt="Article image" width="600" /><br/>
-    Malaysia launches Ryt Bank, its first AI-powered bank · Google&apos;s Veo 3 AI video creation tools are now widely available · AI is rewriting the rules of the ...</p>
-    <p><a href="https://www.artificialintelligence-news.com" target="_blank">Read full article →</a></p>
+    Explore how AI-native platforms, zero trust, and quantum encryption are shaping the future of enterprise security.</p>
+    <p><a href="https://www.frost.com/growth-opportunity-news/techvision/generative-ai-in-telecom-unlocking-the-next-growth-wave-tnv06_tg02_generativeaitelecomdaf8_oct25_cim-sn/" target="_blank">Read full article →</a></p>
   ]]></description>
       <enclosure url="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" type="image/jpeg" />
       <pubDate>Tue, 07 Oct 2025 00:00:00 GMT</pubDate>
+    </item>
+
+    <item>
+      <title><![CDATA[ZTE cultivates intelligence where networks and AI converge]]></title>
+      <link>https://www.rcrwireless.com/20251007/sponsored/zte-networks-ai</link>
+      <guid isPermaLink="true">https://www.rcrwireless.com/20251007/sponsored/zte-networks-ai#guid</guid>
+      <description><![CDATA[
+    <p><img src="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" alt="Article image" width="600" /><br/>
+    ZTE cultivates intelligence where networks and AI converge. By:ZTE and RCR Wireless News (Sponsored). October 7, 2025. SponsoredTelco AI.</p>
+    <p><a href="https://www.rcrwireless.com/20251007/sponsored/zte-networks-ai" target="_blank">Read full article →</a></p>
+  ]]></description>
+      <enclosure url="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" type="image/jpeg" />
+      <pubDate>Mon, 06 Oct 2025 00:00:00 GMT</pubDate>
+    </item>
+
+    <item>
+      <title><![CDATA[Singtel Enterprise: 'We aim to be an AI-first telco' - Light Reading]]></title>
+      <link>https://www.lightreading.com/ai-machine-learning/singtel-enterprise-we-aim-to-be-an-ai-first-telco-of-the-future-</link>
+      <guid isPermaLink="true">https://www.lightreading.com/ai-machine-learning/singtel-enterprise-we-aim-to-be-an-ai-first-telco-of-the-future-#guid</guid>
+      <description><![CDATA[
+    <p><img src="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" alt="Article image" width="600" /><br/>
+    Singtel Enterprise is investing in AI, advancing network slicing, digital twins and autonomous networks.</p>
+    <p><a href="https://www.lightreading.com/ai-machine-learning/singtel-enterprise-we-aim-to-be-an-ai-first-telco-of-the-future-" target="_blank">Read full article →</a></p>
+  ]]></description>
+      <enclosure url="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" type="image/jpeg" />
+      <pubDate>Mon, 06 Oct 2025 00:00:00 GMT</pubDate>
     </item>
 
     <item>
@@ -179,16 +179,42 @@
     </item>
 
     <item>
-      <title><![CDATA[AI-powered network management is here to help the ...]]></title>
-      <link>https://www.datacenterdynamics.com/en/opinions/ai-powered-network-management-is-here-to-help-the-telecommunications-industry-unlock-much-needed-customer-value/</link>
-      <guid isPermaLink="true">https://www.datacenterdynamics.com/en/opinions/ai-powered-network-management-is-here-to-help-the-telecommunications-industry-unlock-much-needed-customer-value/#guid</guid>
+      <title><![CDATA[AI News | Latest AI News, Analysis & Events]]></title>
+      <link>https://www.artificialintelligence-news.com</link>
+      <guid isPermaLink="true">https://www.artificialintelligence-news.com#guid</guid>
       <description><![CDATA[
     <p><img src="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" alt="Article image" width="600" /><br/>
-    Generative AI is the phantom of all telco knowledge. This is where generative AI acts as a reliable knowledge base. Generative AI models can ...</p>
-    <p><a href="https://www.datacenterdynamics.com/en/opinions/ai-powered-network-management-is-here-to-help-the-telecommunications-industry-unlock-much-needed-customer-value/" target="_blank">Read full article →</a></p>
+    Malaysia launches Ryt Bank, its first AI-powered bank · Google&apos;s Veo 3 AI video creation tools are now widely available · AI is rewriting the rules of the ...</p>
+    <p><a href="https://www.artificialintelligence-news.com" target="_blank">Read full article →</a></p>
   ]]></description>
       <enclosure url="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" type="image/jpeg" />
-      <pubDate>Fri, 22 Aug 2025 00:00:00 GMT</pubDate>
+      <pubDate>Tue, 07 Oct 2025 00:00:00 GMT</pubDate>
+    </item>
+
+    <item>
+      <title><![CDATA[The opportunity in generative AI for Telecom]]></title>
+      <link>https://www.telecoms.com/digital-ecosystem/the-opportunity-in-generative-ai-for-telecom</link>
+      <guid isPermaLink="true">https://www.telecoms.com/digital-ecosystem/the-opportunity-in-generative-ai-for-telecom#guid</guid>
+      <description><![CDATA[
+    <p><img src="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" alt="Article image" width="600" /><br/>
+    This global telecom market study covers more than 100+ tier -1 telecom executives, and explores where generative AI possibilities meet reality.</p>
+    <p><a href="https://www.telecoms.com/digital-ecosystem/the-opportunity-in-generative-ai-for-telecom" target="_blank">Read full article →</a></p>
+  ]]></description>
+      <enclosure url="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" type="image/jpeg" />
+      <pubDate>Tue, 20 May 2025 00:00:00 GMT</pubDate>
+    </item>
+
+    <item>
+      <title><![CDATA[150 AI use cases from leading startups and digital natives]]></title>
+      <link>https://cloud.google.com/blog/topics/startups/150-ai-use-cases-leading-startups-and-digital-natives/</link>
+      <guid isPermaLink="true">https://cloud.google.com/blog/topics/startups/150-ai-use-cases-leading-startups-and-digital-natives/#guid</guid>
+      <description><![CDATA[
+    <p><img src="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" alt="Article image" width="600" /><br/>
+    ... development of new generative AI features. Cursor is an AI-powered code editor that integrates advanced AI features like autonomous agents ...</p>
+    <p><a href="https://cloud.google.com/blog/topics/startups/150-ai-use-cases-leading-startups-and-digital-natives/" target="_blank">Read full article →</a></p>
+  ]]></description>
+      <enclosure url="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" type="image/jpeg" />
+      <pubDate>Wed, 08 Oct 2025 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
