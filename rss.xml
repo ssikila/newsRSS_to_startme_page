@@ -6,7 +6,7 @@
     <atom:link href="https://ssikila.github.io/newsRSS_to_startme_page/rss.xml" rel="self" type="application/rss+xml" />
     <description><![CDATA[Daily AI & Telecom insights curated by n8n + Perplexity]]></description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 08 Oct 2025 10:53:52 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 Oct 2025 11:05:27 GMT</lastBuildDate>
     <generator>n8n RSS Generator</generator>
     
     <item>
@@ -14,10 +14,12 @@
       <link>https://ssikila.github.io/newsRSS_to_startme_page/item1.html</link>
       <guid isPermaLink="true">https://ssikila.github.io/newsRSS_to_startme_page/item1.html#guid</guid>
       <description><![CDATA[
-    <p>Please provide the article title, snippet, date, and source so I can create the summary.</p>
+    <p><img src="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" alt="Article image" width="600" /><br/>
+    Please provide the news article details (title, snippet, date, source) so I can summarize it for you.</p>
     <p><a href="https://ssikila.github.io/newsRSS_to_startme_page/item1.html" target="_blank">Read full article →</a></p>
   ]]></description>
-      <pubDate>Wed, 08 Oct 2025 10:53:52 GMT</pubDate>
+      <enclosure url="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" type="image/jpeg" />
+      <pubDate>Wed, 08 Oct 2025 11:05:27 GMT</pubDate>
     </item>
 
     <item>
@@ -25,10 +27,12 @@
       <link>https://ssikila.github.io/newsRSS_to_startme_page/item2.html</link>
       <guid isPermaLink="true">https://ssikila.github.io/newsRSS_to_startme_page/item2.html#guid</guid>
       <description><![CDATA[
-    <p>Please provide the article text or details to summarize.</p>
+    <p><img src="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" alt="Article image" width="600" /><br/>
+    Sure, please provide the article details so I can summarize it for you.</p>
     <p><a href="https://ssikila.github.io/newsRSS_to_startme_page/item2.html" target="_blank">Read full article →</a></p>
   ]]></description>
-      <pubDate>Wed, 08 Oct 2025 10:53:52 GMT</pubDate>
+      <enclosure url="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" type="image/jpeg" />
+      <pubDate>Wed, 08 Oct 2025 11:05:27 GMT</pubDate>
     </item>
 
     <item>
@@ -36,10 +40,12 @@
       <link>https://ssikila.github.io/newsRSS_to_startme_page/item3.html</link>
       <guid isPermaLink="true">https://ssikila.github.io/newsRSS_to_startme_page/item3.html#guid</guid>
       <description><![CDATA[
-    <p>Please provide the article text or details so I can create the summary.</p>
+    <p><img src="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" alt="Article image" width="600" /><br/>
+    Please provide the article details (title, snippet, date, source) for me to summarize.</p>
     <p><a href="https://ssikila.github.io/newsRSS_to_startme_page/item3.html" target="_blank">Read full article →</a></p>
   ]]></description>
-      <pubDate>Wed, 08 Oct 2025 10:53:52 GMT</pubDate>
+      <enclosure url="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" type="image/jpeg" />
+      <pubDate>Wed, 08 Oct 2025 11:05:27 GMT</pubDate>
     </item>
 
     <item>
@@ -47,10 +53,12 @@
       <link>https://ssikila.github.io/newsRSS_to_startme_page/item4.html</link>
       <guid isPermaLink="true">https://ssikila.github.io/newsRSS_to_startme_page/item4.html#guid</guid>
       <description><![CDATA[
-    <p>Sure! Please provide the article text or details so I can create the summary for you.</p>
+    <p><img src="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" alt="Article image" width="600" /><br/>
+    Please provide the article content or snippet you&apos;d like summarized.</p>
     <p><a href="https://ssikila.github.io/newsRSS_to_startme_page/item4.html" target="_blank">Read full article →</a></p>
   ]]></description>
-      <pubDate>Wed, 08 Oct 2025 10:53:52 GMT</pubDate>
+      <enclosure url="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" type="image/jpeg" />
+      <pubDate>Wed, 08 Oct 2025 11:05:27 GMT</pubDate>
     </item>
 
     <item>
@@ -58,10 +66,12 @@
       <link>https://ssikila.github.io/newsRSS_to_startme_page/item5.html</link>
       <guid isPermaLink="true">https://ssikila.github.io/newsRSS_to_startme_page/item5.html#guid</guid>
       <description><![CDATA[
-    <p>Please provide the article details so I can summarize it for you.</p>
+    <p><img src="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" alt="Article image" width="600" /><br/>
+    Please provide the article text or details so I can summarize it for you.</p>
     <p><a href="https://ssikila.github.io/newsRSS_to_startme_page/item5.html" target="_blank">Read full article →</a></p>
   ]]></description>
-      <pubDate>Wed, 08 Oct 2025 10:53:52 GMT</pubDate>
+      <enclosure url="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" type="image/jpeg" />
+      <pubDate>Wed, 08 Oct 2025 11:05:27 GMT</pubDate>
     </item>
 
     <item>
@@ -69,10 +79,12 @@
       <link>https://ssikila.github.io/newsRSS_to_startme_page/item6.html</link>
       <guid isPermaLink="true">https://ssikila.github.io/newsRSS_to_startme_page/item6.html#guid</guid>
       <description><![CDATA[
-    <p>Please provide the article or its details so I can create the summary.</p>
+    <p><img src="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" alt="Article image" width="600" /><br/>
+    Please provide the article text or details so I can summarize it for you.</p>
     <p><a href="https://ssikila.github.io/newsRSS_to_startme_page/item6.html" target="_blank">Read full article →</a></p>
   ]]></description>
-      <pubDate>Wed, 08 Oct 2025 10:53:52 GMT</pubDate>
+      <enclosure url="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" type="image/jpeg" />
+      <pubDate>Wed, 08 Oct 2025 11:05:27 GMT</pubDate>
     </item>
 
     <item>
@@ -80,10 +92,12 @@
       <link>https://ssikila.github.io/newsRSS_to_startme_page/item7.html</link>
       <guid isPermaLink="true">https://ssikila.github.io/newsRSS_to_startme_page/item7.html#guid</guid>
       <description><![CDATA[
-    <p>Please provide the news article or its details for summarization.</p>
+    <p><img src="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" alt="Article image" width="600" /><br/>
+    Sure! Please provide the article title and snippet you’d like summarized.</p>
     <p><a href="https://ssikila.github.io/newsRSS_to_startme_page/item7.html" target="_blank">Read full article →</a></p>
   ]]></description>
-      <pubDate>Wed, 08 Oct 2025 10:53:52 GMT</pubDate>
+      <enclosure url="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" type="image/jpeg" />
+      <pubDate>Wed, 08 Oct 2025 11:05:27 GMT</pubDate>
     </item>
 
     <item>
@@ -91,10 +105,12 @@
       <link>https://ssikila.github.io/newsRSS_to_startme_page/item8.html</link>
       <guid isPermaLink="true">https://ssikila.github.io/newsRSS_to_startme_page/item8.html#guid</guid>
       <description><![CDATA[
-    <p>Please provide the news article or its details so I can summarize it for you.</p>
+    <p><img src="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" alt="Article image" width="600" /><br/>
+    Please provide the news article or its details so I can create the summary for you.</p>
     <p><a href="https://ssikila.github.io/newsRSS_to_startme_page/item8.html" target="_blank">Read full article →</a></p>
   ]]></description>
-      <pubDate>Wed, 08 Oct 2025 10:53:52 GMT</pubDate>
+      <enclosure url="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" type="image/jpeg" />
+      <pubDate>Wed, 08 Oct 2025 11:05:27 GMT</pubDate>
     </item>
 
     <item>
@@ -102,10 +118,12 @@
       <link>https://ssikila.github.io/newsRSS_to_startme_page/item9.html</link>
       <guid isPermaLink="true">https://ssikila.github.io/newsRSS_to_startme_page/item9.html#guid</guid>
       <description><![CDATA[
-    <p>Please provide the article text or details to summarize.</p>
+    <p><img src="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" alt="Article image" width="600" /><br/>
+    Please provide the news article text you&apos;d like me to summarize.</p>
     <p><a href="https://ssikila.github.io/newsRSS_to_startme_page/item9.html" target="_blank">Read full article →</a></p>
   ]]></description>
-      <pubDate>Wed, 08 Oct 2025 10:53:52 GMT</pubDate>
+      <enclosure url="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" type="image/jpeg" />
+      <pubDate>Wed, 08 Oct 2025 11:05:27 GMT</pubDate>
     </item>
 
     <item>
@@ -113,10 +131,12 @@
       <link>https://ssikila.github.io/newsRSS_to_startme_page/item10.html</link>
       <guid isPermaLink="true">https://ssikila.github.io/newsRSS_to_startme_page/item10.html#guid</guid>
       <description><![CDATA[
-    <p>Please provide the news article details so I can create the summary.</p>
+    <p><img src="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" alt="Article image" width="600" /><br/>
+    Please provide the article snippet or details you&apos;d like summarized.</p>
     <p><a href="https://ssikila.github.io/newsRSS_to_startme_page/item10.html" target="_blank">Read full article →</a></p>
   ]]></description>
-      <pubDate>Wed, 08 Oct 2025 10:53:52 GMT</pubDate>
+      <enclosure url="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" type="image/jpeg" />
+      <pubDate>Wed, 08 Oct 2025 11:05:27 GMT</pubDate>
     </item>
 
     <item>
@@ -124,10 +144,12 @@
       <link>https://ssikila.github.io/newsRSS_to_startme_page/item11.html</link>
       <guid isPermaLink="true">https://ssikila.github.io/newsRSS_to_startme_page/item11.html#guid</guid>
       <description><![CDATA[
-    <p>Please provide the article details you&apos;d like summarized.</p>
+    <p><img src="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" alt="Article image" width="600" /><br/>
+    Please provide the article details so I can create the summary for you.</p>
     <p><a href="https://ssikila.github.io/newsRSS_to_startme_page/item11.html" target="_blank">Read full article →</a></p>
   ]]></description>
-      <pubDate>Wed, 08 Oct 2025 10:53:52 GMT</pubDate>
+      <enclosure url="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" type="image/jpeg" />
+      <pubDate>Wed, 08 Oct 2025 11:05:27 GMT</pubDate>
     </item>
 
     <item>
@@ -135,10 +157,12 @@
       <link>https://ssikila.github.io/newsRSS_to_startme_page/item12.html</link>
       <guid isPermaLink="true">https://ssikila.github.io/newsRSS_to_startme_page/item12.html#guid</guid>
       <description><![CDATA[
-    <p>Please provide the news article or its details for me to summarize.</p>
+    <p><img src="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" alt="Article image" width="600" /><br/>
+    Please provide the article details so I can create the summary.</p>
     <p><a href="https://ssikila.github.io/newsRSS_to_startme_page/item12.html" target="_blank">Read full article →</a></p>
   ]]></description>
-      <pubDate>Wed, 08 Oct 2025 10:53:52 GMT</pubDate>
+      <enclosure url="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" type="image/jpeg" />
+      <pubDate>Wed, 08 Oct 2025 11:05:27 GMT</pubDate>
     </item>
 
     <item>
@@ -146,10 +170,12 @@
       <link>https://ssikila.github.io/newsRSS_to_startme_page/item13.html</link>
       <guid isPermaLink="true">https://ssikila.github.io/newsRSS_to_startme_page/item13.html#guid</guid>
       <description><![CDATA[
-    <p>Please provide the article details (title, snippet, date, source) so I can generate the summary for you.</p>
+    <p><img src="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" alt="Article image" width="600" /><br/>
+    Please provide the article title, snippet, date, and source so I can create the summary.</p>
     <p><a href="https://ssikila.github.io/newsRSS_to_startme_page/item13.html" target="_blank">Read full article →</a></p>
   ]]></description>
-      <pubDate>Wed, 08 Oct 2025 10:53:52 GMT</pubDate>
+      <enclosure url="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" type="image/jpeg" />
+      <pubDate>Wed, 08 Oct 2025 11:05:27 GMT</pubDate>
     </item>
 
     <item>
@@ -157,10 +183,25 @@
       <link>https://ssikila.github.io/newsRSS_to_startme_page/item14.html</link>
       <guid isPermaLink="true">https://ssikila.github.io/newsRSS_to_startme_page/item14.html#guid</guid>
       <description><![CDATA[
-    <p>Please provide the news article text or details you would like summarized.</p>
+    <p><img src="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" alt="Article image" width="600" /><br/>
+    Please provide the article or snippet you would like summarized.</p>
     <p><a href="https://ssikila.github.io/newsRSS_to_startme_page/item14.html" target="_blank">Read full article →</a></p>
   ]]></description>
-      <pubDate>Wed, 08 Oct 2025 10:53:52 GMT</pubDate>
+      <enclosure url="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" type="image/jpeg" />
+      <pubDate>Wed, 08 Oct 2025 11:05:27 GMT</pubDate>
+    </item>
+
+    <item>
+      <title><![CDATA[AI/Telecom Insight #15]]></title>
+      <link>https://ssikila.github.io/newsRSS_to_startme_page/item15.html</link>
+      <guid isPermaLink="true">https://ssikila.github.io/newsRSS_to_startme_page/item15.html#guid</guid>
+      <description><![CDATA[
+    <p><img src="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" alt="Article image" width="600" /><br/>
+    Please provide the article details so I can summarize it for you.</p>
+    <p><a href="https://ssikila.github.io/newsRSS_to_startme_page/item15.html" target="_blank">Read full article →</a></p>
+  ]]></description>
+      <enclosure url="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" type="image/jpeg" />
+      <pubDate>Wed, 08 Oct 2025 11:05:27 GMT</pubDate>
     </item>
   </channel>
 </rss>
