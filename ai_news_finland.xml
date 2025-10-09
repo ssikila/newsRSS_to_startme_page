@@ -5,11 +5,55 @@
   <channel>
     <title>AI &amp; Telecom News Digest</title>
     <link>https://ssikila.github.io/newsRSS_to_startme_page/</link>
-    <atom:link href="https://ssikila.github.io/newsRSS_to_startme_page/ai_news_finland.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://ssikila.github.io/newsRSS_to_startme_page/rss.xml" rel="self" type="application/rss+xml" />
     <description><![CDATA[Daily AI & Telecom insights curated by n8n + Perplexity]]></description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 09 Oct 2025 14:26:09 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 09 Oct 2025 14:33:48 GMT</lastBuildDate>
     <generator>n8n RSS Generator</generator>
     
+      <item>
+        <title><![CDATA[Generative AI News Finland – Thu Oct 09 2025]]></title>
+        <link>https://ssikila.github.io/newsRSS_to_startme_page/</link>
+        <guid isPermaLink="true">https://ssikila.github.io/newsRSS_to_startme_page/#guid</guid>
+        <description><![CDATA[
+      <p><img src="https://www.businessfinland.fi/4907f4/globalassets/finnish-customers/news/news/2025/tekoalyntilasuomessa_li.png?w=550" alt="Article image" width="600" /><br/>
+      ## Tekoälyn kehitys Suomessa – Päivitetyt trendit ja uusimmat uutiset lokakuussa 2025
+
+**Tekoäly on juuttunut suomalaisella työpaikalla, startupeissa ja tutkimuksen kärjessä. Ohessa yleiskatsaus viimeaikaisista uutisista ja kehityssuunnista.**
+
+### Tutkimusta, infraa ja kansainvälistä kansainvälisyyttä
+
+- **ELLIS Institute Finland** on avannut ovensa laajassa joukossa huippututkijoita (9 uutta professoria), ja aivan uusiutunut tutkimuslaitos painottuu robottisen, tietoturvallisen ja ymmärrettävän tekoälyn kehittämiseen. Samuel Kaski sai merkittävän ERC Advanced Grant -apurahan kehittääkseen uutta, ymmärrettävämpää tekoälyä, joka osaa toimia yhdessä ihmisen kanssa ratkaisemaan laajoja haasteita[2].
+- **Finnish Center for Artificial Intelligence (FCAI)** jatkaa Suomessa omanlaatuista AI-lähestymistapaa, jossa kehitetään ihmisläheistä ja eettistä tekoälyä, joka toimii myös harvemman datan reunaehdoissa. FCAI on yksi strategisen kansallisen AI-ohjelman kulmakivistä ja edistää muun muassa teollisuuden digitointia, terveydenhuollon uudistusta sekä kaupunkimobiilisuuden tekoälyratkaisuja[4][17].
+- **Suomen kansainvälinen kilpailukyky** on muuttunut haastavammaksi: toisaalta tutkimus ja infra (esim. LUMI-supertietokone) ovat edelleen vahvoja, mutta ulkomaisten investointien houkuttelu ja kansainväliset alustapelurit määrittelevät yhä enemmän Suomen sijoittumista globaalissa tekoälymaailmassa[5][9].
+
+### Tekoälyn hyödyntäminen yrityskäytössä
+
+- **Generatiivinen tekoäly** on kasvanut yrityksissä arjenseksi työkalueksi: sisällöntuotanto, käännökset, markkinoinnin ideointi, tuotekehitys ja asiakasvuorojen automatisointi roboteilla ovat tyypillisiä käyttökohteita. Tekoäly nopeuttaa tuotekehitystä, kirjoittaa luonnoksia raporteihin ja yksinkertaistaa esimerkiksi taloushallinnon päätöksenteon tiedonkäsittelyä[3].
+- **Suomalaiset tekoälytaloitukset** julkistavat jatkuvasti uusia esimerkkejä globaalista toiminnasta: Capalo, Nvelop, Revieve, Aiforia ja Relex tuovat ratkaisuja energiaan, terveydenhuoltoon, vähittäiskauppaan ja logistiikkaan[8].
+- **AI ja automaatio muokkaa työpaikkoja**: sekä manuaaliset että asiantuntijatehtävät muuttuvat tekoälyn myötä, ja työelämässä algoritmien hallitsema prosessiohjaus on yleistynyt selvästi – etenkin nuoret työntekijät ovat tottuneempia tähän kehitykseen[6][10].
+
+### Sijoitukset ja kasvu
+
+- **Suomeen kohdistuvat ulkomaiset investoinnit** tekoälyyn ovat kasvaneet, mutta Ruotsi on edelleen selvempi houkutin Pohjoismaissa. Suomen osalta investointien kasvupotentiaali tunnistetaan laajassa kansainvälisessä ekosysteemissä, ja suomalainen AI-yhteisö kaipaa rohkeita yrityksiä ja uusia sijoittajia maailmanmarkkinoille[1][5].
+- **EU-tason infrastruktuuri** vahvistuu, sillä Suomeen on valmistumassa Superlaskentakeskus LUMI ja EU:n AI Factory, mikä kasvattaa kansainvälisen yhteistyön ja tekoälyn skaalautumisen mahdollisuuksia[2].
+
+### Muut tiedot
+
+- **Media- ja tietoyhteiskuntakasvatus** korostuu: Suomen koulut ovat panostaneet vahvasti verkkoviestintätaitoihin ja AI-tiedon osaamiseen, koska tekoälyn tuomat muutokset tiedossa-aloitus- ja uutisfiltteröinnissä ovat isoja haasteita nuorten osaamisen kannalta[16].
+- **Tekoälyviikko** ja muut tapahtumat kutsuvat koolle sekä sijoittajia että käyttäjiä – pohdiskelu tekoälyn vaikutuksesta talouteen, teknologian murrokseen ja yhteiskunnan muutokseen on kiivaampaa kuin koskaan[15].
+
+---
+
+## Yhteenveto
+
+Suomen tekoälykenttä on dynaaminen: infra ja tutkimus ovat edellä, mutta kansainvälinen kilpailu kovenee. Yritykset ja yhteiskunta hyödyntävät tekoälyä arjessa ja erikoistuneet ohjelmistotalot vievät ratkaisuja maailmalle. Tekoälyn hyödyt ja haasteet nousivat viime vuosina Yleisradioonkin, kun Suomen hyvää koulujärjestelmää kehuttiin digiosaamisen ja kritiikin edistäjänä[13]. Tulevaisuutta määrittävät nyt investoinnit, infrastruktuuri sekä kestävä ihmisläheinen AI-soveltaminen.<br><br><strong>Sources:</strong> <a href="https://www.businessfinland.fi/ajankohtaista/uutiset/2025/tekoalyn-tila-suomessa-2025-kasvava--ekosysteemi-kaipaa-rohkeita-investointeja" target="_blank">[1]</a> <a href="https://www.ellisinstitute.fi" target="_blank">[2]</a> <a href="https://rajut.fi/tekoaly-suomalaisissa-yrityksissa-tilanne-2025-ja-tulevat-trendit/" target="_blank">[3]</a> <a href="https://www.clustercollaboration.eu/content/finnish-center-artificial-intelligence-fcai" target="_blank">[4]</a> <a href="https://www.fairedih.fi/etusivu/uutiset/" target="_blank">[5]</a> <a href="https://www.dailyfinland.fi/business/45622/AI-automation-reshape-Finlands-workplaces-Survey" target="_blank">[6]</a> <a href="https://aifinland.fi" target="_blank">[7]</a> <a href="https://www.goodnewsfinland.com/en/articles/five-from-finland/2025/finland-ai-solutions/" target="_blank">[8]</a> <a href="https://www.tekoalyfoorumi.fi/post/uutinen-teko%C3%A4lyn-tila-suomessa-2025-raportti-kansainv%C3%A4linen-kilpailukyky-on-heikentynyt" target="_blank">[9]</a> <a href="https://www.fairedih.fi/en/frontpage/news/" target="_blank">[10]</a> <a href="https://www.suomenuutiset.fi/tagi/ai/" target="_blank">[11]</a> <a href="https://nortal.com/news/news-library/tivi-nortal-establishes-a-business-unit-in-finland-focused-on-data-and-ai-ergin-tuganay-appointed-as-head-of-the-new-unit" target="_blank">[12]</a> <a href="https://yle.fi/t/18-215158/fi" target="_blank">[13]</a> <a href="https://www.youtube.com/watch?v=Z0cCMnHPy-E" target="_blank">[14]</a> <a href="https://www.aibrainwave.fi/ai-uutiset-2292025" target="_blank">[15]</a> <a href="https://www.euronews.com/next/2025/08/19/finlands-war-on-fake-news-starts-in-schools-ai-could-make-that-a-lot-harder" target="_blank">[16]</a> <a href="https://fcai.fi/impact" target="_blank">[17]</a></p>
+      <p><a href="https://ssikila.github.io/newsRSS_to_startme_page/" target="_blank">Read full article →</a></p>
+    ]]></description>
+        <enclosure url="https://www.businessfinland.fi/4907f4/globalassets/finnish-customers/news/news/2025/tekoalyntilasuomessa_li.png?w=550" type="image/jpeg" />
+        <media:content url="https://www.businessfinland.fi/4907f4/globalassets/finnish-customers/news/news/2025/tekoalyntilasuomessa_li.png?w=550" type="image/jpeg" medium="image" />
+        <media:thumbnail url="https://www.businessfinland.fi/4907f4/globalassets/finnish-customers/news/news/2025/tekoalyntilasuomessa_li.png?w=550" />
+        <pubDate>Thu, 09 Oct 2025 14:33:48 GMT</pubDate>
+      </item>
   </channel>
 </rss>
