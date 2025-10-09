@@ -8,7 +8,7 @@
     <atom:link href="https://ssikila.github.io/newsRSS_to_startme_page/rss.xml" rel="self" type="application/rss+xml" />
     <description><![CDATA[Daily AI & Telecom insights curated by n8n + Perplexity]]></description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 09 Oct 2025 06:36:34 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 09 Oct 2025 06:37:33 GMT</lastBuildDate>
     <generator>n8n RSS Generator</generator>
     
       <item>
@@ -23,7 +23,7 @@
         <enclosure url="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" type="image/jpeg" />
         <media:content url="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" type="image/jpeg" medium="image" />
          <media:thumbnail url="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" />
-        <pubDate>Thu, 09 Oct 2025 06:36:34 GMT</pubDate>
+        <pubDate>Thu, 09 Oct 2025 06:37:33 GMT</pubDate>
       </item>
   </channel>
 </rss>
