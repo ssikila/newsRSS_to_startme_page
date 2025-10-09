@@ -8,7 +8,7 @@
     <atom:link href="https://ssikila.github.io/newsRSS_to_startme_page/rss.xml" rel="self" type="application/rss+xml" />
     <description><![CDATA[Daily AI & Telecom insights curated by n8n + Perplexity]]></description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 09 Oct 2025 06:35:16 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 09 Oct 2025 06:37:01 GMT</lastBuildDate>
     <generator>n8n RSS Generator</generator>
     
       <item>
@@ -16,13 +16,13 @@
         <link>https://www.whitehouse.gov/articles/2025/07/white-house-unveils-americas-ai-action-plan/</link>
         <guid isPermaLink="true">https://www.whitehouse.gov/articles/2025/07/white-house-unveils-americas-ai-action-plan/#guid</guid>
         <description><![CDATA[
-      <p><img src="https://www.soludigital.fi/wp-content/uploads/2025/06/Tekoalyn-tulevaisuus-2025-e1750336879742.jpeg" alt="Article image" width="600" /><br/>
-      The White House today released “Winning the AI Race: America&apos;s AI Action Plan”, in accordance with President Trump&apos;s January executive order ...</p>
+      <p><img src="https://media.defense.gov/2025/Mar/19/2003669314/2000/2000/0/250319-F-AF000-1001.JPG" alt="Article image" width="600" /><br/>
+      “America&apos;s AI Action Plan charts a decisive course to cement U.S. dominance in artificial intelligence. President Trump has prioritized AI as a ...</p>
       <p><a href="https://www.whitehouse.gov/articles/2025/07/white-house-unveils-americas-ai-action-plan/" target="_blank">Read full article →</a></p>
     ]]></description>
-        <enclosure url="https://www.soludigital.fi/wp-content/uploads/2025/06/Tekoalyn-tulevaisuus-2025-e1750336879742.jpeg" type="image/jpeg" />
-        <media:content url="https://www.soludigital.fi/wp-content/uploads/2025/06/Tekoalyn-tulevaisuus-2025-e1750336879742.jpeg" type="image/jpeg" medium="image" />
-         <media:thumbnail url="https://www.soludigital.fi/wp-content/uploads/2025/06/Tekoalyn-tulevaisuus-2025-e1750336879742.jpeg" />
+        <enclosure url="https://media.defense.gov/2025/Mar/19/2003669314/2000/2000/0/250319-F-AF000-1001.JPG" type="image/jpeg" />
+        <media:content url="https://media.defense.gov/2025/Mar/19/2003669314/2000/2000/0/250319-F-AF000-1001.JPG" type="image/jpeg" medium="image" />
+         <media:thumbnail url="https://media.defense.gov/2025/Mar/19/2003669314/2000/2000/0/250319-F-AF000-1001.JPG" />
         <pubDate>Wed, 23 Jul 2025 00:00:00 GMT</pubDate>
       </item>
 
@@ -31,29 +31,29 @@
         <link>https://www.goodnewsfinland.com/en/articles/five-from-finland/2025/finland-ai-solutions/</link>
         <guid isPermaLink="true">https://www.goodnewsfinland.com/en/articles/five-from-finland/2025/finland-ai-solutions/#guid</guid>
         <description><![CDATA[
-      <p><img src="https://uvdxvgggjphy9pqb.public.blob.vercel-storage.com/Image_2025-04-22T06%3A04%3A06.723Z-MbOVRnHifcWnzwkmaxRUQGcp9UNMUv.jpg" alt="Article image" width="600" /><br/>
+      <p><img src="https://www.brookings.edu/wp-content/uploads/2025/07/2025-07-23T224002Z_692912593_RC2LSFAJL74H_RTRMADP_3_USA-TRUMP-AI-1.jpg?quality=75&amp;w=1500" alt="Article image" width="600" /><br/>
       Discover how Finnish firms like Capalo, Nvelop, Revieve, Aiforia and Relex are applying AI to energy, healthcare, retail and supply chains ...</p>
       <p><a href="https://www.goodnewsfinland.com/en/articles/five-from-finland/2025/finland-ai-solutions/" target="_blank">Read full article →</a></p>
     ]]></description>
-        <enclosure url="https://uvdxvgggjphy9pqb.public.blob.vercel-storage.com/Image_2025-04-22T06%3A04%3A06.723Z-MbOVRnHifcWnzwkmaxRUQGcp9UNMUv.jpg" type="image/jpeg" />
-        <media:content url="https://uvdxvgggjphy9pqb.public.blob.vercel-storage.com/Image_2025-04-22T06%3A04%3A06.723Z-MbOVRnHifcWnzwkmaxRUQGcp9UNMUv.jpg" type="image/jpeg" medium="image" />
-         <media:thumbnail url="https://uvdxvgggjphy9pqb.public.blob.vercel-storage.com/Image_2025-04-22T06%3A04%3A06.723Z-MbOVRnHifcWnzwkmaxRUQGcp9UNMUv.jpg" />
+        <enclosure url="https://www.brookings.edu/wp-content/uploads/2025/07/2025-07-23T224002Z_692912593_RC2LSFAJL74H_RTRMADP_3_USA-TRUMP-AI-1.jpg?quality=75&amp;w=1500" type="image/jpeg" />
+        <media:content url="https://www.brookings.edu/wp-content/uploads/2025/07/2025-07-23T224002Z_692912593_RC2LSFAJL74H_RTRMADP_3_USA-TRUMP-AI-1.jpg?quality=75&amp;w=1500" type="image/jpeg" medium="image" />
+         <media:thumbnail url="https://www.brookings.edu/wp-content/uploads/2025/07/2025-07-23T224002Z_692912593_RC2LSFAJL74H_RTRMADP_3_USA-TRUMP-AI-1.jpg?quality=75&amp;w=1500" />
         <pubDate>Wed, 17 Sep 2025 00:00:00 GMT</pubDate>
       </item>
 
       <item>
-        <title><![CDATA[Goldman Sachs & Google Predict 'Hybrid AI Workforce' Revolution]]></title>
-        <link>https://www.youtube.com/watch?v=nZhk5dIIv54</link>
-        <guid isPermaLink="true">https://www.youtube.com/watch?v=nZhk5dIIv54#guid</guid>
+        <title><![CDATA[AI Breaking News in September 2025 - YouTube]]></title>
+        <link>https://www.youtube.com/watch?v=JKtrOHpG_4U</link>
+        <guid isPermaLink="true">https://www.youtube.com/watch?v=JKtrOHpG_4U#guid</guid>
         <description><![CDATA[
-      <p><img src="https://eurojatalous.studio.crasman.cloud/pub/Sis%C3%A4lt%C3%B6tiedostot/Graafit/2025/Artikkelit/20250107-Analyysi-SP-Kuvio3.png?fv=148b" alt="Article image" width="600" /><br/>
-      In 2025, AI will hit mainstream in big ways. Goldman Sachs&apos; CIO says he&apos;s &quot;never seen anything like this&quot; - and it&apos;s happening even faster ...</p>
-      <p><a href="https://www.youtube.com/watch?v=nZhk5dIIv54" target="_blank">Read full article →</a></p>
+      <p><img src="https://www.whitehouse.gov/wp-content/uploads/2025/09/P20250904DT-0415.jpg" alt="Article image" width="600" /><br/>
+      AI Breaking News in September 2025 Get the latest updates in artificial intelligence from early September 2025 — a moment where AI is not ...</p>
+      <p><a href="https://www.youtube.com/watch?v=JKtrOHpG_4U" target="_blank">Read full article →</a></p>
     ]]></description>
-        <enclosure url="https://eurojatalous.studio.crasman.cloud/pub/Sis%C3%A4lt%C3%B6tiedostot/Graafit/2025/Artikkelit/20250107-Analyysi-SP-Kuvio3.png?fv=148b" type="image/jpeg" />
-        <media:content url="https://eurojatalous.studio.crasman.cloud/pub/Sis%C3%A4lt%C3%B6tiedostot/Graafit/2025/Artikkelit/20250107-Analyysi-SP-Kuvio3.png?fv=148b" type="image/jpeg" medium="image" />
-         <media:thumbnail url="https://eurojatalous.studio.crasman.cloud/pub/Sis%C3%A4lt%C3%B6tiedostot/Graafit/2025/Artikkelit/20250107-Analyysi-SP-Kuvio3.png?fv=148b" />
-        <pubDate>Mon, 13 Jan 2025 00:00:00 GMT</pubDate>
+        <enclosure url="https://www.whitehouse.gov/wp-content/uploads/2025/09/P20250904DT-0415.jpg" type="image/jpeg" />
+        <media:content url="https://www.whitehouse.gov/wp-content/uploads/2025/09/P20250904DT-0415.jpg" type="image/jpeg" medium="image" />
+         <media:thumbnail url="https://www.whitehouse.gov/wp-content/uploads/2025/09/P20250904DT-0415.jpg" />
+        <pubDate>Fri, 05 Sep 2025 00:00:00 GMT</pubDate>
       </item>
 
       <item>
@@ -61,29 +61,29 @@
         <link>https://www.youtube.com/watch?v=as0JzU3OmL8</link>
         <guid isPermaLink="true">https://www.youtube.com/watch?v=as0JzU3OmL8#guid</guid>
         <description><![CDATA[
-      <p><img src="https://eurojatalous.studio.crasman.cloud/pub/Sis%C3%A4lt%C3%B6tiedostot/Graafit/2025/Artikkelit/20250107-Analyysi-SP-Kuvio5.png?fv=e3ac" alt="Article image" width="600" /><br/>
+      <p><img src="https://atvais.com/wp-content/uploads/2025/07/AI-Action-Plan-2025.png" alt="Article image" width="600" /><br/>
       Finland just put deep tech on a deadline. On Monday, August 25, Helsinki Incubators launched Journeys, a 16-week program turning early ideas ...</p>
       <p><a href="https://www.youtube.com/watch?v=as0JzU3OmL8" target="_blank">Read full article →</a></p>
     ]]></description>
-        <enclosure url="https://eurojatalous.studio.crasman.cloud/pub/Sis%C3%A4lt%C3%B6tiedostot/Graafit/2025/Artikkelit/20250107-Analyysi-SP-Kuvio5.png?fv=e3ac" type="image/jpeg" />
-        <media:content url="https://eurojatalous.studio.crasman.cloud/pub/Sis%C3%A4lt%C3%B6tiedostot/Graafit/2025/Artikkelit/20250107-Analyysi-SP-Kuvio5.png?fv=e3ac" type="image/jpeg" medium="image" />
-         <media:thumbnail url="https://eurojatalous.studio.crasman.cloud/pub/Sis%C3%A4lt%C3%B6tiedostot/Graafit/2025/Artikkelit/20250107-Analyysi-SP-Kuvio5.png?fv=e3ac" />
+        <enclosure url="https://atvais.com/wp-content/uploads/2025/07/AI-Action-Plan-2025.png" type="image/jpeg" />
+        <media:content url="https://atvais.com/wp-content/uploads/2025/07/AI-Action-Plan-2025.png" type="image/jpeg" medium="image" />
+         <media:thumbnail url="https://atvais.com/wp-content/uploads/2025/07/AI-Action-Plan-2025.png" />
         <pubDate>Wed, 27 Aug 2025 00:00:00 GMT</pubDate>
       </item>
 
       <item>
-        <title><![CDATA[[PDF] America's AI Action Plan - The White House]]></title>
-        <link>https://www.whitehouse.gov/wp-content/uploads/2025/07/Americas-AI-Action-Plan.pdf</link>
-        <guid isPermaLink="true">https://www.whitehouse.gov/wp-content/uploads/2025/07/Americas-AI-Action-Plan.pdf#guid</guid>
+        <title><![CDATA[Goldman Sachs & Google Predict 'Hybrid AI Workforce' Revolution]]></title>
+        <link>https://www.youtube.com/watch?v=nZhk5dIIv54</link>
+        <guid isPermaLink="true">https://www.youtube.com/watch?v=nZhk5dIIv54#guid</guid>
         <description><![CDATA[
-      <p><img src="https://eurojatalous.studio.crasman.cloud/pub/Sis%C3%A4lt%C3%B6tiedostot/Graafit/2025/Artikkelit/20250107-Analyysi-SP-Kuvio4.png?fv=c3f5" alt="Article image" width="600" /><br/>
-      Executive Order 14277 of April 23, 2025: “Advancing Artificial Intelligence Education for American Youth,” Federal Register. 90 (80) 17519 ...</p>
-      <p><a href="https://www.whitehouse.gov/wp-content/uploads/2025/07/Americas-AI-Action-Plan.pdf" target="_blank">Read full article →</a></p>
+      <p><img src="https://cdn.prod.website-files.com/686ecd0062f779f2ba045e1b/688131302dea1bbeefb0f383_AI%20Action%20Plan%20Cover.png" alt="Article image" width="600" /><br/>
+      In 2025, AI will hit mainstream in big ways. Goldman Sachs&apos; CIO says he&apos;s &quot;never seen anything like this&quot; - and it&apos;s happening even faster ...</p>
+      <p><a href="https://www.youtube.com/watch?v=nZhk5dIIv54" target="_blank">Read full article →</a></p>
     ]]></description>
-        <enclosure url="https://eurojatalous.studio.crasman.cloud/pub/Sis%C3%A4lt%C3%B6tiedostot/Graafit/2025/Artikkelit/20250107-Analyysi-SP-Kuvio4.png?fv=c3f5" type="image/jpeg" />
-        <media:content url="https://eurojatalous.studio.crasman.cloud/pub/Sis%C3%A4lt%C3%B6tiedostot/Graafit/2025/Artikkelit/20250107-Analyysi-SP-Kuvio4.png?fv=c3f5" type="image/jpeg" medium="image" />
-         <media:thumbnail url="https://eurojatalous.studio.crasman.cloud/pub/Sis%C3%A4lt%C3%B6tiedostot/Graafit/2025/Artikkelit/20250107-Analyysi-SP-Kuvio4.png?fv=c3f5" />
-        <pubDate>Thu, 10 Jul 2025 00:00:00 GMT</pubDate>
+        <enclosure url="https://cdn.prod.website-files.com/686ecd0062f779f2ba045e1b/688131302dea1bbeefb0f383_AI%20Action%20Plan%20Cover.png" type="image/jpeg" />
+        <media:content url="https://cdn.prod.website-files.com/686ecd0062f779f2ba045e1b/688131302dea1bbeefb0f383_AI%20Action%20Plan%20Cover.png" type="image/jpeg" medium="image" />
+         <media:thumbnail url="https://cdn.prod.website-files.com/686ecd0062f779f2ba045e1b/688131302dea1bbeefb0f383_AI%20Action%20Plan%20Cover.png" />
+        <pubDate>Mon, 13 Jan 2025 00:00:00 GMT</pubDate>
       </item>
 
       <item>
@@ -99,36 +99,6 @@
         <media:content url="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" type="image/jpeg" medium="image" />
          <media:thumbnail url="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" />
         <pubDate>Mon, 06 Oct 2025 00:00:00 GMT</pubDate>
-      </item>
-
-      <item>
-        <title><![CDATA[Who's Winning the Battle for Artificial Intelligence in 2025? - YouTube]]></title>
-        <link>https://www.youtube.com/watch?v=eJlI9OFJ9XQ</link>
-        <guid isPermaLink="true">https://www.youtube.com/watch?v=eJlI9OFJ9XQ#guid</guid>
-        <description><![CDATA[
-      <p><img src="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" alt="Article image" width="600" /><br/>
-      The race for AI dominance is heating up like never before. In this video, we break down the China vs USA AI War, looking at who&apos;s leading in ...</p>
-      <p><a href="https://www.youtube.com/watch?v=eJlI9OFJ9XQ" target="_blank">Read full article →</a></p>
-    ]]></description>
-        <enclosure url="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" type="image/jpeg" />
-        <media:content url="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" type="image/jpeg" medium="image" />
-         <media:thumbnail url="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" />
-        <pubDate>Wed, 01 Oct 2025 00:00:00 GMT</pubDate>
-      </item>
-
-      <item>
-        <title><![CDATA[Finland is using drones and AI to tackle congestion. Is it safe?]]></title>
-        <link>https://www.euronews.com/next/2025/10/08/finland-is-using-drones-and-ai-to-tackle-congestion-is-it-safe</link>
-        <guid isPermaLink="true">https://www.euronews.com/next/2025/10/08/finland-is-using-drones-and-ai-to-tackle-congestion-is-it-safe#guid</guid>
-        <description><![CDATA[
-      <p><img src="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" alt="Article image" width="600" /><br/>
-      Finland&apos;s capital, Helsinki, is turning to drones and artificial intelligence (AI) to help tackle one of the city&apos;s trickiest challenges - ...</p>
-      <p><a href="https://www.euronews.com/next/2025/10/08/finland-is-using-drones-and-ai-to-tackle-congestion-is-it-safe" target="_blank">Read full article →</a></p>
-    ]]></description>
-        <enclosure url="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" type="image/jpeg" />
-        <media:content url="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" type="image/jpeg" medium="image" />
-         <media:thumbnail url="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" />
-        <pubDate>Wed, 08 Oct 2025 00:00:00 GMT</pubDate>
       </item>
 
       <item>
@@ -162,21 +132,6 @@
       </item>
 
       <item>
-        <title><![CDATA[What's next for AI in 2025? - YouTube]]></title>
-        <link>https://www.youtube.com/watch?v=7a7Uxarz2XU</link>
-        <guid isPermaLink="true">https://www.youtube.com/watch?v=7a7Uxarz2XU#guid</guid>
-        <description><![CDATA[
-      <p><img src="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" alt="Article image" width="600" /><br/>
-      After a landmark year for AI advancements like chatbots and image generation, questions loom about the future. Generative AI expert Sam ...</p>
-      <p><a href="https://www.youtube.com/watch?v=7a7Uxarz2XU" target="_blank">Read full article →</a></p>
-    ]]></description>
-        <enclosure url="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" type="image/jpeg" />
-        <media:content url="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" type="image/jpeg" medium="image" />
-         <media:thumbnail url="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" />
-        <pubDate>Wed, 18 Dec 2024 00:00:00 GMT</pubDate>
-      </item>
-
-      <item>
         <title><![CDATA[Jony Ive: OpenAI's Upcoming Device Will 'Make Us Happy']]></title>
         <link>https://www.techrepublic.com/article/news-jony-ive-openai-device-will-make-us-happy/</link>
         <guid isPermaLink="true">https://www.techrepublic.com/article/news-jony-ive-openai-device-will-make-us-happy/#guid</guid>
@@ -192,18 +147,33 @@
       </item>
 
       <item>
-        <title><![CDATA[[PDF] Reuters Institute Digital News Report 2025]]></title>
-        <link>https://reutersinstitute.politics.ox.ac.uk/sites/default/files/2025-06/Digital_News-Report_2025.pdf</link>
-        <guid isPermaLink="true">https://reutersinstitute.politics.ox.ac.uk/sites/default/files/2025-06/Digital_News-Report_2025.pdf#guid</guid>
+        <title><![CDATA[Using AI to make the most of evaluation evidence in Finland - OECD]]></title>
+        <link>https://www.oecd.org/en/publications/development-co-operation-tips-tools-insights-practices_be69e0cf-en/using-ai-to-make-the-most-of-evaluation-evidence-in-finland_ec059edb-en.html</link>
+        <guid isPermaLink="true">https://www.oecd.org/en/publications/development-co-operation-tips-tools-insights-practices_be69e0cf-en/using-ai-to-make-the-most-of-evaluation-evidence-in-finland_ec059edb-en.html#guid</guid>
         <description><![CDATA[
       <p><img src="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" alt="Article image" width="600" /><br/>
-      ... AI in news; across countries, survey respondents expect that AI will make the news cheaper to produce but also less trustworthy. Our report this year is ...</p>
-      <p><a href="https://reutersinstitute.politics.ox.ac.uk/sites/default/files/2025-06/Digital_News-Report_2025.pdf" target="_blank">Read full article →</a></p>
+      Finland uses OpenEval, an AI platform, to capture, organize, and make evaluation evidence accessible, allowing users to search reports quickly ...</p>
+      <p><a href="https://www.oecd.org/en/publications/development-co-operation-tips-tools-insights-practices_be69e0cf-en/using-ai-to-make-the-most-of-evaluation-evidence-in-finland_ec059edb-en.html" target="_blank">Read full article →</a></p>
     ]]></description>
         <enclosure url="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" type="image/jpeg" />
         <media:content url="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" type="image/jpeg" medium="image" />
          <media:thumbnail url="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" />
-        <pubDate>Thu, 09 Oct 2025 06:35:16 GMT</pubDate>
+        <pubDate>Thu, 04 Sep 2025 00:00:00 GMT</pubDate>
+      </item>
+
+      <item>
+        <title><![CDATA[AI Insider: Latest AI Funding News & Industry Insights]]></title>
+        <link>https://theaiinsider.tech</link>
+        <guid isPermaLink="true">https://theaiinsider.tech#guid</guid>
+        <description><![CDATA[
+      <p><img src="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" alt="Article image" width="600" /><br/>
+      AI Insider offers in-depth articles, exclusive interviews, and up-to-date funding news to keep you at the forefront of the AI revolution.</p>
+      <p><a href="https://theaiinsider.tech" target="_blank">Read full article →</a></p>
+    ]]></description>
+        <enclosure url="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" type="image/jpeg" />
+        <media:content url="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" type="image/jpeg" medium="image" />
+         <media:thumbnail url="https://ssikila.github.io/newsRSS_to_startme_page/default_thumb.jpg" />
+        <pubDate>Tue, 17 Jun 2025 00:00:00 GMT</pubDate>
       </item>
   </channel>
 </rss>
