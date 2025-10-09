@@ -8,38 +8,8 @@
     <atom:link href="https://ssikila.github.io/newsRSS_to_startme_page/rss.xml" rel="self" type="application/rss+xml" />
     <description><![CDATA[Daily AI & Telecom insights curated by n8n + Perplexity]]></description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 09 Oct 2025 11:58:51 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 09 Oct 2025 14:04:47 GMT</lastBuildDate>
     <generator>n8n RSS Generator</generator>
     
-      <item>
-        <title><![CDATA[Generative AI News Finland – Thu Oct 09 2025]]></title>
-        <link>https://ssikila.github.io/newsRSS_to_startme_page/</link>
-        <guid isPermaLink="true">https://ssikila.github.io/newsRSS_to_startme_page/#guid</guid>
-        <description><![CDATA[
-      <p><img src="https://www.businessfinland.fi/4907f4/globalassets/finnish-customers/news/news/2025/tekoalyntilasuomessa_li.png" alt="Article image" width="600" /><br/>
-      Suomessa tekoäly-uutisissa korostuvat vuonna 2025 erityisesti **kasvava tekoälyekosysteemi**, rohkeat investointitarpeet ja uuden tutkimuksen nousu[1][3][6]. AI Finlandin ja Business Finlandin julkaisema tuore katsaus tarjoaa kokonaiskuvan aiheesta ja listaa alan suomalaisia startupeja, yritysten uusia käyttötapoja sekä tutkimuslähtöjä[1][3][6]. 
-
-Keskeiset trendit ja tapahtumat:
-
-- **Tekoäly on jo arkipäivää yrityksissä**: Suomalaisissa yrityksissä tekoälyä käytetään laajasti muun muassa sisällöntuotannossa, markkinoinnissa, tuotekehityksessä, asiakaspalvelussa ja datan analysoinnissa[5]. Generatiivinen tekoäly nopeuttaa tekstien, raporttien ja koodin luonnostelua, chatbotit hoitavat rutiinikysymyksiä 24/7 ja tekoäly auttaa datan analysoinnissa johtamistasolla[5].
-
-- **Uudet tutkimus- ja innovaatiokeskukset**: ELLIS Institute Finland on avattu kansainväliseksi huippututkimuskeskukseksi, joka keskittyy tekoälyn ja koneoppimisen perustutkimukseen ja ekosysteemin rakentamiseen[4]. Keskuksen myötä Suomeen on houkuteltu yhdeksän uutta professoria ja on käynnistetty suuria tutkimushankkeita ihmisen ja tekoälyn yhteistyön kehittämiseksi[4].
-
-- **Kansalaisohjattu tekoälyn hallinta**: Suomi laatii maailman ensimmäistä kansalaislähtöistä tekoälyn eettistä ohjeistusta julkisten palvelujen käyttöön, mikä on merkittävä askel demokraattiseen ja vastuulliseen tekoälyn sääntelyyn[2].
-
-- **Suomalaiset tekoälyratkaisut**: Capalo AI operoi virtuaalisia voimalaitoksia sähkömarkkinoilla, Nvelop kehittää autonomisia tekoälyagentteja hankintaan, Revieve tarjoaa personoituja kauneus- ja hyvinvointisuosituksia, Aiforia analysoi lääketieteellisiä kuvia, ja RELEX Solutions optimoivat kaupan toimitusketjuja[2][8].
-
-- **Kilpailukyky ja investoinnit**: Suomella on vahva tutkimus ja infrastruktuuri, mutta kansainvälinen kilpailukyky on heikentynyt[11]. Ekosysteemi kaipaa nykyistä rohkeampia investointeja, ja osaajia houkutellaan mukaan sekä yritys- että tutkimuspuolelle[1][6][3].
-
-- **Algoritminen johtaminen yleistyy**: Algoritmit ohjaavat työelämää ja erityisesti nuoret työntekijät kokevat niiden olevan myönteisiä[12].
-
-Tiedonlähteissä todetaan, että tekoälyn kehitysvauhti on ”huima” ja alan toimijoiden on tärkeä pysähtyä arvioimaan vahvuuksiaan ja vaikutusmahdollisuuksiaan[1][3][6]. Suomi esittää aktiivisesti osaamistaan myös Euroopan unionin tasolla uusissa tekoäly- ja superkonesatsauksissa sekä kansainvälisissä tapahtumissa[14][4].<br><br><strong>Sources:</strong> <a href="https://www.businessfinland.fi/ajankohtaista/uutiset/2025/tekoalyn-tila-suomessa-2025-kasvava--ekosysteemi-kaipaa-rohkeita-investointeja" target="_blank">[1]</a> <a href="https://www.goodnewsfinland.com/en/articles/breaking-news/2025/finland-public-ai/" target="_blank">[2]</a> <a href="https://aifinland.fi/tekoalyn-tila-suomessa-2025-kasvava-ekosysteemi-kaipaa-rohkeita-investointeja/" target="_blank">[3]</a> <a href="https://www.ellisinstitute.fi" target="_blank">[4]</a> <a href="https://rajut.fi/tekoaly-suomalaisissa-yrityksissa-tilanne-2025-ja-tulevat-trendit/" target="_blank">[5]</a> <a href="https://www.businessfinland.fi/en/whats-new/news/2025/the-state-of-ai-in-finland-2025-a-growing-ecosystem-needs-bold-investments" target="_blank">[6]</a> <a href="https://www.fairedih.fi/etusivu/uutiset/" target="_blank">[7]</a> <a href="https://www.goodnewsfinland.com/en/articles/five-from-finland/2025/finland-ai-solutions/" target="_blank">[8]</a> <a href="https://aifinland.fi" target="_blank">[9]</a> <a href="https://www.dailyfinland.fi/business/45622/AI-automation-reshape-Finlands-workplaces-Survey" target="_blank">[10]</a> <a href="https://www.tekoalyfoorumi.fi/post/uutinen-teko%C3%A4lyn-tila-suomessa-2025-raportti-kansainv%C3%A4linen-kilpailukyky-on-heikentynyt" target="_blank">[11]</a> <a href="https://www.fairedih.fi/en/frontpage/news/" target="_blank">[12]</a> <a href="https://www.suomenuutiset.fi/tagi/ai/" target="_blank">[13]</a> <a href="https://www.developmentaid.org/news-stream/post/200857/finland-global-gateway-forum-digital-expertise-brussels" target="_blank">[14]</a> <a href="https://yle.fi/t/18-215158/fi" target="_blank">[15]</a> <a href="https://nortal.com/news/news-library/tivi-nortal-establishes-a-business-unit-in-finland-focused-on-data-and-ai-ergin-tuganay-appointed-as-head-of-the-new-unit" target="_blank">[16]</a> <a href="https://www.fairedih.fi/2025/07/16/tekoaly-suomessa-vahvuudet-haasteet-ja-mahdollisuudet/" target="_blank">[17]</a> <a href="https://www.helsinki.fi/en/news/artificial-intelligence" target="_blank">[18]</a> <a href="https://www.euronews.com/next/2025/08/19/finlands-war-on-fake-news-starts-in-schools-ai-could-make-that-a-lot-harder" target="_blank">[19]</a></p>
-      <p><a href="https://ssikila.github.io/newsRSS_to_startme_page/" target="_blank">Read full article →</a></p>
-    ]]></description>
-        <enclosure url="https://www.businessfinland.fi/4907f4/globalassets/finnish-customers/news/news/2025/tekoalyntilasuomessa_li.png" type="image/jpeg" />
-        <media:content url="https://www.businessfinland.fi/4907f4/globalassets/finnish-customers/news/news/2025/tekoalyntilasuomessa_li.png" type="image/jpeg" medium="image" />
-        <media:thumbnail url="https://www.businessfinland.fi/4907f4/globalassets/finnish-customers/news/news/2025/tekoalyntilasuomessa_li.png" />
-        <pubDate>Thu, 09 Oct 2025 11:52:11 GMT</pubDate>
-      </item>
   </channel>
 </rss>
