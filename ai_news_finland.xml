@@ -8,7 +8,7 @@
     <atom:link href="https://ssikila.github.io/newsRSS_to_startme_page/ai_news_finland.xml.xml" rel="self" type="application/rss+xml" />
     <description><![CDATA[Daily AI & Telecom insights curated by n8n + Perplexity]]></description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 09 Oct 2025 14:36:38 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 09 Oct 2025 14:37:44 GMT</lastBuildDate>
     <generator>n8n RSS Generator</generator>
     
       <item>
@@ -16,25 +16,34 @@
         <link>https://ssikila.github.io/newsRSS_to_startme_page/</link>
         <guid isPermaLink="true">https://ssikila.github.io/newsRSS_to_startme_page/#guid</guid>
         <description><![CDATA[
-      <p><img src="https://www.businessfinland.fi/4907f4/globalassets/finnish-customers/news/news/2025/tekoalyntilasuomessa_li.png" alt="Article image" width="600" /><br/>
-      Tällä hetkellä **tekoäly (AI) on nopeasti kehittyvä ja yhä arkipäiväisempi osa suomalaista yhteiskuntaa ja elinkeinoelämää**. Suomessa julkaistiin helmikuussa 2025 laaja katsaus “Tekoälyn tila Suomessa 2025: Kasvava ekosysteemi kaipaa rohkeita investointeja”, jossa tuodaan esiin alan ajankohtainen kehitys, start-upit, tutkimuksen painopisteet ja yritysten käytännön sovellukset[1][3][6].
+      <p><img src="https://www.ai.se/sites/default/files/styles/sitewide/public/2025-03/poster-impact-report-2024.jpg?itok=n_Mo0Lxu" alt="Article image" width="600" /><br/>
+      Recent AI news from Sweden features new government policy initiatives, ongoing sector investments, regulatory developments, and notable industry collaborations.
 
-Oleellisimmat ajankohtaiset uutiset ja kehitykset:
+- **AI Regulation and Policy**:  
+  In March 2025, the Swedish government published a memorandum (DS 2025:7) proposing a new law allowing police to use AI for real-time facial recognition to fight crime, with privacy protections included; the law is under consultation and aimed for implementation on January 1, 2026[1]. In February 2025, the government’s AI commission released a comprehensive report analyzing Sweden's AI strategy and providing a roadmap with concrete proposals for strengthening the AI ecosystem, emphasizing ethical use and the importance of AI education, especially for children's development[1][3].
 
-- **Ekosysteemi kasvaa nopeasti**, mutta raportin mukaan kansainvälinen kilpailukyky on notkahtanut — erityisesti investointien rohkeutta kaivataan lisää, jotta suomalainen osaaminen pystyy vastaamaan kansainväliseen kilpailuun ja tarttumaan kasvun mahdollisuuksiin[1][3][6][11].
-- **Yritykset hyödyntävät tekoälyä laajasti**: Sovellukset vaihtelevat sisällöntuotannosta, asiakaspalvelusta ja markkinoinnista aina tuotekehitykseen, datapohjaiseen päätöksentekoon ja tuotantoketjujen optimointiin[5]. Esimerkiksi Capalo AI parantaa sähköverkon vakautta, kun taas Aiforia nopeuttaa syövän diagnostiikkaa lääketieteellisissä kuvissa[2][10].
-- **Uusia tutkimuspanostuksia:** ELLIS Institute Finlandista on kasvanut kansainvälisesti merkittävä tutkimusyksikkö, jonka tavoitteena on tukea Suomea ja Eurooppaa tekoälytutkimuksen kärkimaana. Viimeisen vuoden aikana ELLIS on rekrytoinut yhdeksän uutta professoria ja saanut merkittävää rahoitusta Euroopan tutkimusneuvostolta[4].
-- **Etiikka ja sääntely:** Suomi johtaa kehitystä ottamalla käyttöön maailman ensimmäisen kansalaisvetoisen tekoälysääntökirjan julkishallinnolle, mikä vahvistaa sitoutumista eettiseen ja läpinäkyvään AI:n hyödyntämiseen julkisissa palveluissa[2].
-- **Tekoäly suomalaisessa työelämässä:** Tekoäly ja automaatio muovaavat työpaikkoja nopeasti, automatisoiden niin manuaalisia kuin asiantuntijatason tehtäviä ja muuttaen organisaatioiden toimintamalleja[8]. Algoritmipohjainen johtaminen ja uudet työvälineet leviävät etenkin nuoremman sukupolven parissa[12].
-- **Vahvuudet ja haasteet:** Suomi on tutkimuksessa edelläkävijä ja AI:n soveltamisessa laadukas, mutta kasvun jatkuminen edellyttää lisää investointeja, nopeampaa kaupallistamista sekä kansainvälisten osaajien houkuttelua[17].
+- **AI Governance and Global Standing**:
+  Despite strong infrastructure and high trust, Sweden’s latest national report acknowledges losing ground globally: Sweden currently ranks 25th in the Global AI Index, with especially low scores in political strategy and investment[3]. The commission urges increased political engagement, coordination, and funding to improve Sweden’s ranking, with the goal of reaching the top 10 by 2030[3].
 
-Kokonaiskuva: **Suomessa tekoäly nähdään yhä tärkeämpänä innovaatioiden ja tuottavuuden ajurina**, mutta nopean kehityksen jatkuminen edellyttää rohkeita panostuksia ja kansainvälistä yhteistyötä. Eettiset kysymykset ja osaamisen jatkuva päivittäminen ovat kehityksen ytimessä.<br><br><strong>Sources:</strong> <a href="https://www.businessfinland.fi/ajankohtaista/uutiset/2025/tekoalyn-tila-suomessa-2025-kasvava--ekosysteemi-kaipaa-rohkeita-investointeja" target="_blank">[1]</a> <a href="https://www.goodnewsfinland.com/en/articles/breaking-news/2025/finland-public-ai/" target="_blank">[2]</a> <a href="https://aifinland.fi/tekoalyn-tila-suomessa-2025-kasvava-ekosysteemi-kaipaa-rohkeita-investointeja/" target="_blank">[3]</a> <a href="https://www.ellisinstitute.fi" target="_blank">[4]</a> <a href="https://rajut.fi/tekoaly-suomalaisissa-yrityksissa-tilanne-2025-ja-tulevat-trendit/" target="_blank">[5]</a> <a href="https://www.businessfinland.fi/en/whats-new/news/2025/the-state-of-ai-in-finland-2025-a-growing-ecosystem-needs-bold-investments" target="_blank">[6]</a> <a href="https://www.fairedih.fi/etusivu/uutiset/" target="_blank">[7]</a> <a href="https://www.dailyfinland.fi/business/45622/AI-automation-reshape-Finlands-workplaces-Survey" target="_blank">[8]</a> <a href="https://aifinland.fi" target="_blank">[9]</a> <a href="https://www.goodnewsfinland.com/en/articles/five-from-finland/2025/finland-ai-solutions/" target="_blank">[10]</a> <a href="https://www.tekoalyfoorumi.fi/post/uutinen-teko%C3%A4lyn-tila-suomessa-2025-raportti-kansainv%C3%A4linen-kilpailukyky-on-heikentynyt" target="_blank">[11]</a> <a href="https://www.fairedih.fi/en/frontpage/news/" target="_blank">[12]</a> <a href="https://www.suomenuutiset.fi/tagi/ai/" target="_blank">[13]</a> <a href="https://nortal.com/news/news-library/tivi-nortal-establishes-a-business-unit-in-finland-focused-on-data-and-ai-ergin-tuganay-appointed-as-head-of-the-new-unit" target="_blank">[14]</a> <a href="https://yle.fi/t/18-215158/fi" target="_blank">[15]</a> <a href="https://www.helsinki.fi/en/news/artificial-intelligence" target="_blank">[16]</a> <a href="https://www.fairedih.fi/2025/07/16/tekoaly-suomessa-vahvuudet-haasteet-ja-mahdollisuudet/" target="_blank">[17]</a> <a href="https://www.developmentaid.org/news-stream/post/200857/finland-global-gateway-forum-digital-expertise-brussels" target="_blank">[18]</a> <a href="https://www.euronews.com/next/2025/08/19/finlands-war-on-fake-news-starts-in-schools-ai-could-make-that-a-lot-harder" target="_blank">[19]</a></p>
+- **Industry and Investments**:  
+  AI Sweden, the nation’s collaborative platform, is making major investments to expand technical infrastructure and AI maturity services[5][8]. A new wave of certified partners is rolling out to help businesses assess and advance their use of AI[5]. Financial support continues, with Vinnova, Sweden’s innovation agency, investing SEK 100 million (2020–2024) in long-term AI development and skills training[2].
+
+- **Sector Innovation and Partnerships**:  
+  Klarna, the payments company, recently entered a strategic partnership with Google Cloud to accelerate AI solutions[4]. In the creative industries, initiatives like "Re:Create" are supporting digital transformation by integrating AI into the arts and content creation[5]. A Swedish music rights group signed a landmark licensing deal with an AI company, reportedly the world’s first such agreement in the music sector[6].
+
+- **Security and Public Sector Use of AI**:
+  AI Sweden’s researchers are advancing AI security to combat financial crime and data leaks[5]. The Swedish Data Protection Authority and the Digital Government Agency have published joint guidelines on using generative AI in the public sector and compliance with EU privacy law (GDPR)[1].
+
+- **AI in Education and Workforce**:  
+  Broad-scale training initiatives, including "Elements of AI," a free course translated and deployed in Sweden, are encouraging widespread basic AI literacy across both the public and corporate sectors[2].
+
+Overall, **Sweden is taking significant steps to balance innovation, ethical use, and global competitiveness in AI** but recognizes the need to address lagging policy leadership and investment compared to other nations[3][1][7].<br><br><strong>Sources:</strong> <a href="https://www.twobirds.com/en/capabilities/artificial-intelligence/ai-legal-services/ai-regulatory-horizon-tracker/sweden" target="_blank">[1]</a> <a href="https://www.vinnova.se/en/innovation/artificial-intelligence-ai/" target="_blank">[2]</a> <a href="https://swedenherald.com/article/sweden-losing-momentum-globally-in-ai-development" target="_blank">[3]</a> <a href="https://swedenherald.com/article/klarna-stock-climbs-after-ai-partnership-with-google-cloud" target="_blank">[4]</a> <a href="https://www.ai.se/en/news" target="_blank">[5]</a> <a href="https://www.euronews.com/next/2025/09/09/swedish-music-rights-company-signs-licensing-agreement-with-ai-company-in-world-first" target="_blank">[6]</a> <a href="https://www.government.se/articles/2025/09/sweden-leading-the-way-in-artificial-intelligence/" target="_blank">[7]</a> <a href="https://www.ai.se/en/news/multi-million-investment-boost-swedish-ai" target="_blank">[8]</a></p>
       <p><a href="https://ssikila.github.io/newsRSS_to_startme_page/" target="_blank">Read full article →</a></p>
     ]]></description>
-        <enclosure url="https://www.businessfinland.fi/4907f4/globalassets/finnish-customers/news/news/2025/tekoalyntilasuomessa_li.png" type="image/jpeg" />
-        <media:content url="https://www.businessfinland.fi/4907f4/globalassets/finnish-customers/news/news/2025/tekoalyntilasuomessa_li.png" type="image/jpeg" medium="image" />
-        <media:thumbnail url="https://www.businessfinland.fi/4907f4/globalassets/finnish-customers/news/news/2025/tekoalyntilasuomessa_li.png" />
-        <pubDate>Thu, 09 Oct 2025 14:36:38 GMT</pubDate>
+        <enclosure url="https://www.ai.se/sites/default/files/styles/sitewide/public/2025-03/poster-impact-report-2024.jpg?itok=n_Mo0Lxu" type="image/jpeg" />
+        <media:content url="https://www.ai.se/sites/default/files/styles/sitewide/public/2025-03/poster-impact-report-2024.jpg?itok=n_Mo0Lxu" type="image/jpeg" medium="image" />
+        <media:thumbnail url="https://www.ai.se/sites/default/files/styles/sitewide/public/2025-03/poster-impact-report-2024.jpg?itok=n_Mo0Lxu" />
+        <pubDate>Thu, 09 Oct 2025 14:37:44 GMT</pubDate>
       </item>
   </channel>
 </rss>
